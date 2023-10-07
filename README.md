@@ -31,7 +31,7 @@ This assignment has three main tasks, which are producing streaming data, proces
 the data from the Kafka stream.
 
 ## [FIT5147 - Data exploration and visualisation](https://github.com/p-amarade/Assignment-Portfolio/tree/main/FIT5147%20-%20Data%20exploration%20and%20visualisation/A1)
-![FIT5147](https://github.com/p-amarade/Assignment-Portfolio/assets/146332354/62cf298e-a765-4496-a7ae-8baa1024b268)
+![FIT5147](https://github.com/p-amarade/Assignment-Portfolio/tree/main/FIT5147%20-%20Data%20exploration%20and%20visualisation)
 
 I learned how to check for missing, invalid, or duplicate data in this unit using Tableau. I also do the data visualisation in Tableau in various ways. For this assignment, I have to make the visualisation to compare each location's average solar energy generation and show the total energy generated. 
 
