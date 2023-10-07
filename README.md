@@ -53,6 +53,7 @@ This assignment allowed me to learn how to do web scraping by using the Beautifu
 
 I learned how to design effectively in this unit by understanding user interaction design theories, principles and practices and usability for web-based systems and small-screen devices. I also found this valuable unit in data visualisation and the final project.
 For the assignment, I designed the application HobbyHive, an online learning application with a target audience of young adults by using Figma.
+
 View the prototype on Figma [click here.](https://www.figma.com/proto/3FmCqThSM9kV61eNzljNrK/Tute03-C-(Copy)?type=design&node-id=73-553&t=aPSZLRYIX1Nyxw9T-1&scaling=scale-down&page-id=73%3A364&starting-point-node-id=629%3A907&mode=design)
 
 
