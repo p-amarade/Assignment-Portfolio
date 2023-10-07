@@ -1,0 +1,501 @@
+ticket_id,airline_flight,name,gender,dob,dop,dod,is_adult,from,to,distance,num_stops,has_loyalty,price_tier,price
+IDXX92603,Adonis\AS-897,Mr. Tyrone White,M,2014-01-13,2021-06-16,2022-04-04,0,Guernsey,Georgia,3588.71,2,1,1,501.67
+IDZZ62422,Omega\OG-523,Mr. Jack Whitten,M,2001-08-06,2021-11-03,2021-12-09,1,Thailand,Andorra,9576.34,0,0,2,1665.86
+IDZZ18746,Omega\OG-458,Ms. Ashley Ellinger,F,1996-05-05,2021-08-08,2022-07-28,1,Oman,Belize,14239.03,1,0,1,1259.21
+IDXX84364,Adonis\AS-518,Mr. George Hollingsworth,M,2000-11-23,2021-04-05,2021-04-26,1,Cambodia,Haiti,16513.79,1,1,2,3329.54
+IDXX78534,Adonis\AS-940,Mr. Arthur Desanctis,M,2018-10-13,2021-08-11,2022-02-24,0,Saint Vincent and the Grenadines,Micronesia,15846.87,1,0,1,1881.99
+IDYY71925,Calisto\CS-778,Mr. Larry Melton,M,1981-04-25,2021-12-08,2022-05-27,1,Samoa,Lithuania,15224.17,2,1,2,2461.57
+IDZZ11372,Omega\OG-017,Mr. Adam Sanford,M,2013-08-25,2021-08-21,2022-01-28,0,British Indian Ocean Territory,Samoa,12623.68,2,0,2,
+IDXX95572,Adonis\AS-228,Ms. Ola Rice,F,1988-01-02,2021-09-01,2022-07-07,1,Libya,Trinidad and Tobago,8350.11,2,1,1,1027.43
+IDZZ62673,Omega\OG-649,Ms. Danette Medrano,F,1980-08-18,2021-11-14,2022-04-06,1,Dominica,Belgium,6998.16,1,0,2,1253.73
+IDXX21535,Adonis\AS-790,Mr. Gary West,M,1995-01-21,2021-05-19,2021-09-29,1,Netherlands,Barbados,7153.01,0,0,2,1924.49
+IDYY02779,Calisto\CS-455,Ms. Bernice Collins,F,1997-12-20,2021-11-19,2022-03-19,1,Uganda,Suriname,9821.35,2,0,2,1872.18
+IDXX55431,Adonis\AS-907,Ms. Whitney Strickland,F,2008-05-02,2021-02-20,2021-11-06,0,Guinea-Bissau,Italy,4295.91,2,0,2,1053.59
+IDYY97972,Calisto\CS-420,Mr. James Jones,M,1989-11-18,2021-02-09,2021-11-16,1,French Southern Territories,Romania,11436.31,2,0,1,1225.67
+IDXX95701,Adonis\AS-202,Mr. John Boyd,M,2004-08-19,2021-03-31,2022-03-28,1,Hungary,Cocos [Keeling] Islands,10076.94,1,0,1,
+IDXX80925,Adonis\AS-389,Mr. Gary James,M,2013-05-17,2021-02-18,2021-05-19,0,Vietnam,Palau,2964.72,0,1,2,901.82
+IDYY39225,Calisto\CS-302,Ms. Amanda Hall,F,1982-12-07,2021-08-05,2021-08-11,1,Fiji,Somalia,14781.18,1,0,2,2787.48
+IDYY27261,Calisto\CS-499,Mr. Tommy Hodson,M,1984-12-08,2021-06-16,2021-11-13,1,Sweden,Nepal,5960.45,2,0,2,1261.9
+IDYY46719,Calisto\CS-582,Mr. James Shelton,M,2009-10-05,2021-12-09,2022-04-09,0,Lebanon,Morocco,3995.6,0,1,2,947.53
+IDYY37815,Calisto\CS-260,Ms. Amanda Perry,F,2019-11-15,2021-12-24,2022-02-16,0,Puerto Rico,Bhutan,14374.9,1,0,2,2598.54
+IDZZ97598,Omega\OG-320,Mr. Johnny Boothe,M,1999-04-12,2021-12-15,2021-12-28,1,Belize,Albania,10246.48,2,0,2,1527.45
+IDZZ73908,Omega\OG-349,Mr. Mervin Jaculina,M,2001-07-11,2021-10-07,2021-11-07,1,United Kingdom,Sudan,5553.54,1,1,3,1272.11
+IDYY65367,Calisto\CS-668,Ms. Anna Burnett,F,2011-08-09,2021-01-29,2021-10-10,0,Côte d'Ivoire,Czech Republic,5096.86,2,1,2,896.54
+IDXX56270,Adonis\AS-442,Ms. Sarah Carson,F,2017-03-05,2021-10-12,2021-11-06,0,Réunion,Cambodia,6579.1,1,1,3,2045.17
+IDXX01824,Adonis\AS-246,Ms. Elizabeth Simmons,F,2005-12-04,2021-11-21,2022-10-23,1,Uruguay,Guadeloupe,5553.03,2,1,2,1267.78
+IDZZ85130,Omega\OG-984,Ms. Ayana Elliott,F,2005-10-27,2021-01-09,2021-06-26,0,Estonia,Japan,7817.83,2,1,2,1009.22
+IDZZ75714,Omega\OG-346,Mr. Robert Dewitt,M,1996-01-24,2021-12-01,2022-01-28,1,Kuwait,San Marino,3491.36,1,0,2,826.39
+IDXX74389,Adonis\AS-712,Ms. Mary Irby,F,1981-07-10,2021-12-21,2022-02-22,1,Panama,Somalia,13958.2,2,1,2,2788.62
+IDXX84856,Adonis\AS-398,Mr. Ramon Spurlock,M,1982-10-09,2021-02-13,2022-01-02,1,Burkina Faso,Antigua and Barbuda,6485.78,0,0,2,
+IDYY45587,Calisto\CS-871,Mr. Ralph Austin,M,1994-04-19,2021-03-18,2021-07-28,1,Kiribati,Oman,14806.8,2,1,2,
+IDXX14255,Adonis\AS-690,Mr. Edward Greeson,M,1980-04-07,2021-08-22,2021-12-28,1,Singapore,Barbados,17588.39,1,0,2,3922.68
+IDYY21580,Calisto\CS-616,Ms. Sandra Sheppard,F,1990-01-13,2021-03-01,2021-05-02,1,Oman,Cuba,13092.07,1,1,2,2253.09
+IDZZ31096,Omega\OG-051,Ms. Tina Murphy,F,1985-08-12,2021-01-21,2021-10-24,1,China,Romania,6483.35,2,1,2,
+IDZZ07173,Omega\OG-683,Mr. Michael Bowen,M,2015-04-10,2021-09-24,2022-05-06,0,Greenland,Libya,6207.79,1,1,1,602.3
+IDYY41581,Calisto\CS-440,Ms. Mattie Menefee,F,2000-11-23,2021-10-07,2022-03-21,1,Oman,Costa Rica,14422.83,2,0,2,2609.13
+IDXX91516,Adonis\AS-760,Mr. Anthony Ouellette,M,2012-05-03,2021-07-15,2021-12-19,0,Saint Kitts and Nevis,Cambodia,16445.14,2,1,2,3135.97
+IDXX67933,Adonis\AS-519,Ms. Ruth Jernberg,F,2008-10-29,2021-10-12,2022-07-13,0,Jamaica,Rwanda,11901.58,1,0,1,1489.66
+IDYY11287,Calisto\CS-703,Mr. Brian Salisbury,M,2014-11-09,2021-12-02,2022-02-23,0,Brazil,Cuba,4880.5,1,0,2,1080.87
+IDZZ67012,Omega\OG-488,Ms. Virginia Tobar,F,2003-02-06,2021-03-21,2021-08-21,1,Vietnam,Ireland,10421.47,1,1,2,1490.94
+IDZZ67456,Omega\OG-220,Ms. Deborah Campbell,F,2009-11-22,2021-07-19,2022-03-02,0,Samoa,Comoros,15147.66,1,1,1,1085.45
+IDZZ82200,Omega\OG-606,Mr. Brian Dover,M,1988-05-06,2021-04-04,2021-07-13,1,Réunion,Bermuda,14045.54,1,1,2,
+IDYY81636,Calisto\CS-968,Mr. Brian Muller,M,2015-12-24,2021-11-08,2022-07-24,0,Denmark,Mozambique,8691.0,0,0,2,
+IDXX86996,Adonis\AS-110,Mr. Tom Voller,M,1998-05-07,2021-02-12,2021-12-18,1,Monaco,Jordan,2925.08,1,1,2,
+IDZZ96284,Omega\OG-949,Ms. Jolene Hennessey,F,2001-01-03,2021-04-04,2021-10-05,1,Ireland,Swaziland,9688.54,0,1,1,990.24
+IDXX16663,Adonis\AS-054,Ms. Tonya Branch,F,2017-11-15,2021-10-14,2021-12-04,0,Finland,Anguilla,8174.5,2,1,3,
+IDXX97837,Adonis\AS-033,Mr. Larry Germon,M,1997-11-02,2021-06-03,2022-06-02,1,Bangladesh,Guam,5822.87,1,0,1,
+IDZZ90628,Omega\OG-295,Mr. Joel Pinkham,M,1995-03-03,2021-07-30,2022-05-05,1,Bangladesh,Vanuatu,9392.05,2,1,1,782.73
+IDZZ81030,Omega\OG-141,Ms. Ruby Cooney,F,2008-01-12,2021-12-16,2022-03-19,0,Trinidad and Tobago,Montenegro,8447.71,0,1,2,1282.11
+IDZZ82053,Omega\OG-989,Mr. Robert Olsen,M,1985-03-17,2021-08-10,2022-03-11,1,New Caledonia,Lebanon,14918.67,1,1,1,1177.78
+IDZZ11962,Omega\OG-892,Ms. Karen Patterson,F,1991-05-24,2021-01-26,2021-03-07,1,El Salvador,Montenegro,10414.25,1,0,3,2280.2
+IDZZ34362,Omega\OG-987,Ms. Janet Gualtieri,F,2021-04-10,2021-07-14,2021-09-25,0,Rwanda,Slovenia,5549.67,1,0,2,
+IDZZ33322,Omega\OG-369,Ms. Andrea Cooper,F,2012-09-06,2021-10-06,2022-01-04,0,Wallis and Futuna,Tonga,850.63,1,1,2,361.36
+IDYY84125,Calisto\CS-993,Ms. Pearl Staten,F,2005-05-18,2021-01-17,2021-11-22,1,North Korea,Denmark,7809.11,1,0,1,
+IDYY01492,Calisto\CS-014,Ms. Lena Mcclellan,F,1998-10-11,2021-02-19,2021-04-06,1,Algeria,Monaco,1823.6,2,0,2,
+IDYY97661,Calisto\CS-020,Ms. Amy Hague,F,1997-10-08,2021-01-16,2021-12-25,1,Congo [Republic],Brunei,11008.16,2,1,2,
+IDZZ01195,Omega\OG-809,Mr. Darrell Renteria,M,1982-09-16,2021-05-13,2021-11-07,1,Rwanda,United Arab Emirates,3836.37,2,0,2,763.89
+IDXX24687,Adonis\AS-740,Ms. Nan Bonilla,F,1996-03-29,2021-11-02,2022-10-27,1,Iraq,Austria,2911.73,2,1,1,
+IDXX98302,Adonis\AS-639,Ms. Anita Amato,F,1997-07-03,2021-10-03,2022-07-14,1,France,Australia,15175.77,2,0,1,1813.87
+IDZZ07301,Omega\OG-689,Mr. William Mitchell,M,2011-06-13,2021-08-31,2022-06-24,0,Saint Lucia,Belize,2971.13,1,0,1,
+IDXX67403,Adonis\AS-326,Ms. Tierra Ramirez,F,2007-05-17,2021-01-29,2021-10-27,0,Seychelles,Gaza Strip,4598.44,0,0,1,854.36
+IDYY57354,Calisto\CS-062,Ms. Mary Pender,F,2009-01-06,2021-10-01,2022-02-05,0,Nicaragua,Bouvet Island,11091.55,1,0,2,2077.3
+IDZZ40116,Omega\OG-301,Ms. Beverly Wilson,F,2004-08-11,2021-01-12,2021-04-29,1,Iraq,Vietnam,6816.69,1,1,2,1108.15
+IDYY25169,Calisto\CS-653,Ms. Migdalia Noland,F,1980-12-05,2021-01-15,2021-11-05,1,Uganda,Mauritania,5174.4,0,0,1,
+IDYY95059,Calisto\CS-639,Mr. Stanley Bluma,M,1995-03-31,2021-05-09,2021-07-31,1,Belarus,Ethiopia,5086.21,0,0,2,1349.46
+IDXX42940,Adonis\AS-064,Ms. Suzanne Cartwright,F,2017-08-31,2021-01-20,2021-08-15,0,U.S. Virgin Islands,Egypt,9649.54,0,0,2,
+IDXX32807,Adonis\AS-376,Ms. Beverly Ellison,F,2007-06-11,2021-05-25,2021-10-25,0,Latvia,Seychelles,7400.77,0,0,2,1880.82
+IDZZ52975,Omega\OG-461,Ms. Stephanie Evans,F,1981-12-25,2021-11-05,2022-02-11,1,Belize,Panama,1275.57,2,0,2,
+IDZZ35170,Omega\OG-021,Mr. Randy Evans,M,1993-09-08,2021-08-28,2022-03-07,1,Jordan,Albania,1861.53,2,0,1,
+IDZZ26120,Omega\OG-634,Ms. Donna Wait,F,2019-07-14,2021-09-26,2022-06-18,0,Tonga,Samoa,888.78,0,1,2,466.32
+IDZZ06604,Omega\OG-189,Mr. John Radford,M,1990-10-29,2021-07-29,2022-07-23,1,Dominican Republic,Tunisia,7943.38,1,0,2,1360.25
+IDXX09927,Adonis\AS-160,Mr. Brian Edwards,M,2016-12-26,2021-01-30,2021-08-09,0,Brazil,Nepal,15245.39,1,1,1,1637.57
+IDZZ98342,Omega\OG-953,Ms. Yolanda Swiger,F,2013-01-29,2021-11-06,2022-05-27,0,Falkland Islands [Islas Malvinas],India,15053.15,1,1,1,1079.46
+IDYY71240,Calisto\CS-661,Mr. George Penttila,M,2017-08-17,2021-10-07,2022-08-29,0,Sierra Leone,Chad,3408.82,0,0,1,690.91
+IDXX42613,Adonis\AS-695,Ms. Martha Newton,F,2018-10-10,2021-12-22,2022-07-03,0,Nepal,British Virgin Islands,13835.45,2,0,2,2963.65
+IDXX72519,Adonis\AS-803,Mr. Clifton Romero,M,2011-05-29,2021-05-25,2021-10-19,0,Iran,Togo,6039.41,0,1,2,
+IDZZ71339,Omega\OG-244,Mr. Clifford Greenleaf,M,1991-09-03,2021-12-22,2022-09-07,1,Pakistan,Cambodia,4164.42,0,1,1,693.43
+IDYY39880,Calisto\CS-784,Mr. James Romig,M,1998-04-23,2021-10-03,2022-09-24,1,Albania,Wallis and Futuna,16556.58,2,0,2,2949.94
+IDYY79672,Calisto\CS-548,Ms. Kathy Newberg,F,2011-11-07,2021-12-20,2022-03-19,0,Singapore,Equatorial Guinea,10409.31,2,0,2,
+IDZZ64679,Omega\OG-420,Mr. Vernon Gonzales,M,1986-07-02,2021-05-07,2022-02-17,1,Peru,Georgia,13026.96,1,0,1,1187.96
+IDZZ02924,Omega\OG-036,Ms. Sharon Dozier,F,2000-10-24,2021-08-08,2021-12-11,1,Martinique,Uganda,10336.7,2,0,2,1538.69
+IDYY06480,Calisto\CS-794,Ms. Amanda Larson,F,1988-04-19,2021-08-05,2021-12-27,1,South Georgia and the South Sandwich Islands,Ireland,12285.3,2,0,2,2261.22
+IDYY73197,Calisto\CS-436,Ms. Patricia Merle,F,2001-07-03,2021-03-08,2021-05-20,1,Andorra,Moldova,2164.44,0,1,2,796.45
+IDXX45876,Adonis\AS-988,Mr. Paul Stafford,M,2001-06-24,2021-09-20,2022-08-28,1,Papua New Guinea,Moldova,12445.88,2,0,2,2792.14
+IDXX50163,Adonis\AS-691,Ms. Billie Barrett,F,2007-09-23,2021-12-05,2022-11-21,0,Comoros,Guinea,6403.96,1,1,1,845.99
+IDYY46412,Calisto\CS-563,Mr. Robert Gregory,M,1986-09-11,2021-04-09,2021-06-23,1,São Tomé and Príncipe,Tunisia,3763.86,1,0,2,
+IDYY32567,Calisto\CS-568,Mr. Tony Fahnestock,M,1987-08-16,2021-11-21,2022-03-29,1,Ireland,Antigua and Barbuda,6118.41,1,1,2,1258.87
+IDYY94854,Calisto\CS-711,Mr. Kevin Mcclain,M,1988-11-13,2021-04-01,2021-08-24,1,Equatorial Guinea,North Korea,12164.26,2,0,2,2247.52
+IDZZ95882,Omega\OG-318,Ms. Rita Gillespie,F,2003-08-25,2021-02-23,2022-02-16,1,Grenada,Turkmenistan,11693.05,2,0,1,997.09
+IDXX22046,Adonis\AS-019,Ms. Debra Cooke,F,1983-08-27,2021-10-08,2022-02-10,1,Romania,Denmark,1570.47,2,0,2,
+IDZZ40636,Omega\OG-098,Ms. Harriet Trevino,F,2014-03-16,2021-08-07,2022-05-04,0,São Tomé and Príncipe,Zambia,2772.93,1,0,1,
+IDZZ10086,Omega\OG-590,Mr. Christopher Bishop,M,1995-10-08,2021-05-27,2022-02-23,1,Barbados,Montserrat,486.69,1,0,1,
+IDZZ27025,Omega\OG-175,Mr. Craig Richardson,M,2008-02-02,2021-08-11,2021-11-11,0,Martinique,Lebanon,9734.78,2,0,2,
+IDYY01973,Calisto\CS-391,Mr. David Porter,M,1980-03-11,2021-09-01,2022-08-26,1,Finland,French Southern Territories,12969.78,2,0,1,1346.0
+IDXX52220,Adonis\AS-759,Ms. Pearl Spencer,F,2018-08-10,2021-04-12,2021-07-23,0,Turkey,Bhutan,5213.03,2,1,2,1127.7
+IDZZ83809,Omega\OG-841,Ms. Charlotte Newcombe,F,2016-06-16,2021-11-28,2022-04-22,0,French Guiana,Sri Lanka,14751.5,2,1,2,1762.94
+IDXX54711,Adonis\AS-175,Ms. Aisha Garrett,F,1983-01-20,2021-05-21,2021-07-07,1,Cameroon,Uganda,2310.15,0,1,2,858.98
+IDZZ55244,Omega\OG-941,Ms. Ashley Minick,F,2020-11-18,2021-12-11,2022-09-19,0,Slovenia,Lesotho,8538.62,0,1,1,835.39
+IDYY32512,Calisto\CS-270,Mr. Max Twine,M,2004-12-27,2021-08-13,2022-02-06,1,Georgia,San Marino,2502.12,2,0,2,
+IDZZ64381,Omega\OG-876,Mr. Kevin Madden,M,1997-03-18,2021-02-19,2021-07-20,1,Iran,Sweden,4005.69,2,1,2,702.81
+IDYY77673,Calisto\CS-049,Ms. Linda Luce,F,2020-08-08,2021-10-04,2022-07-10,0,Benin,Tuvalu,19467.71,1,0,2,3422.07
+IDZZ83464,Omega\OG-018,Mr. Philip Bender,M,1993-04-11,2021-07-31,2021-09-21,1,Bangladesh,Uruguay,16584.63,1,0,2,2390.6
+IDZZ81767,Omega\OG-243,Ms. Tasha Wilder,F,2007-01-12,2021-01-30,2021-02-17,0,Kuwait,Australia,11030.79,2,0,2,1516.97
+IDXX36398,Adonis\AS-803,Ms. Caroline Sappington,F,2007-10-08,2021-09-25,2022-06-10,0,Senegal,Greenland,6637.57,0,0,1,1053.24
+IDYY09178,Calisto\CS-595,Mr. Robert Suk,M,2001-05-18,2021-07-09,2022-03-03,1,New Zealand,Costa Rica,11680.3,1,1,1,1214.88
+IDXX41603,Adonis\AS-283,Ms. Nell Smith,F,1997-10-30,2021-10-15,2021-10-29,1,Ecuador,Latvia,10963.59,1,0,2,2590.57
+IDYY80419,Calisto\CS-885,Mr. John Alexander,M,2007-01-21,2021-05-24,2021-08-31,0,Swaziland,Norfolk Island,12302.94,1,0,2,2268.79
+IDYY00112,Calisto\CS-575,Mr. Donald Jenkins,M,2012-10-28,2021-05-29,2022-05-09,0,Tuvalu,Sudan,16412.71,2,1,1,
+IDZZ52217,Omega\OG-872,Mr. Christopher Byrne,M,2008-08-08,2021-07-15,2021-10-08,0,French Southern Territories,Vanuatu,9266.33,2,1,2,1168.04
+IDZZ32556,Omega\OG-493,Ms. Linda Cordano,F,2016-08-21,2021-12-05,2022-04-19,0,Denmark,Spain,2005.56,0,1,2,583.31
+IDYY60430,Calisto\CS-989,Mr. Carl Gange,M,1984-09-09,2021-09-04,2021-12-15,1,Timor-Leste,Latvia,11520.77,2,0,2,2133.55
+IDZZ07385,Omega\OG-155,Ms. Peggy Tull,F,1990-04-03,2021-04-12,2021-08-04,1,Dominican Republic,Namibia,10688.1,1,1,2,1529.12
+IDZZ69346,Omega\OG-444,Ms. Melanie Jimenes,F,2016-09-27,2021-09-03,2021-10-04,0,Cayman Islands,Philippines,15678.26,2,0,2,2074.92
+IDZZ31741,Omega\OG-607,Mr. Carl Bruton,M,2015-07-01,2021-01-20,2021-07-11,0,Morocco,Kiribati,16335.79,1,0,2,2255.0
+IDZZ40089,Omega\OG-229,Ms. Hazel Porter,F,2003-01-19,2021-05-26,2021-09-20,1,Nepal,Samoa,12072.51,1,0,2,1857.54
+IDXX95036,Adonis\AS-431,Mr. Jimmy Bedwell,M,2009-09-06,2021-06-02,2022-05-27,0,Algeria,Bosnia and Herzegovina,2273.53,2,0,1,425.0
+IDZZ21866,Omega\OG-551,Mr. Pablo Sharkey,M,1984-11-20,2021-02-08,2021-10-09,1,Timor-Leste,Guinea,15143.93,2,1,2,1900.02
+IDYY11055,Calisto\CS-115,Mr. James Gompf,M,1987-01-31,2021-01-17,2021-02-19,1,Christmas Island,Lebanon,8860.29,2,1,2,1548.58
+IDYY61635,Calisto\CS-558,Mr. Perry Wilkinson,M,2015-10-10,2021-01-11,2021-12-04,0,United States,United Arab Emirates,12582.91,1,1,2,2081.1
+IDXX58633,Adonis\AS-636,Mr. Allen Aguilar,M,2008-08-29,2021-04-15,2021-10-22,0,Iran,Kenya,3974.62,0,1,1,710.72
+IDXX14040,Adonis\AS-964,Ms. Kimberly Davis,F,2020-08-10,2021-12-03,2022-10-26,0,Mauritania,Turks and Caicos Islands,6266.44,1,0,1,921.06
+IDZZ43460,Omega\OG-471,Ms. Barbara Mckenna,F,2002-06-24,2021-11-05,2022-05-30,1,Turkmenistan,Argentina,15183.01,2,1,1,1085.62
+IDZZ67666,Omega\OG-331,Mr. William Basham,M,1987-05-02,2021-02-06,2021-06-25,1,Côte d'Ivoire,Samoa,18412.51,1,1,2,
+IDYY01446,Calisto\CS-313,Ms. Katherine Fullilove,F,1997-10-16,2021-10-11,2022-09-20,1,Pitcairn Islands,South Georgia and the South Sandwich Islands,7859.48,1,1,1,945.1
+IDXX12340,Adonis\AS-082,Mr. Russell Coons,M,1985-09-20,2021-07-07,2021-11-27,1,Oman,Suriname,12108.8,2,0,2,2715.52
+IDYY32787,Calisto\CS-876,Ms. Betty Hinkle,F,2005-02-15,2021-09-18,2022-01-01,1,Mayotte,Bermuda,12639.63,2,1,2,2094.71
+IDZZ66715,Omega\OG-607,Ms. Reta Donart,F,2018-08-17,2021-02-01,2021-09-02,0,Northern Mariana Islands,Niger,13953.86,1,1,1,1017.54
+IDXX67004,Adonis\AS-468,Mr. Charles Hahn,M,2005-08-30,2021-09-29,2021-11-25,1,Panama,Palau,15725.77,2,0,2,
+IDXX86967,Adonis\AS-118,Ms. Miriam Pemberton,F,1990-11-06,2021-01-06,2021-05-26,1,Mauritius,Germany,9191.23,1,1,2,
+IDXX56941,Adonis\AS-095,Mr. Roy Delarosa,M,2002-07-21,2021-03-11,2021-12-20,1,Samoa,Guam,5634.89,2,0,1,870.07
+IDYY39819,Calisto\CS-652,Ms. Carman Long,F,1995-08-06,2021-09-01,2022-06-14,1,Ireland,Jordan,4366.6,0,0,1,
+IDXX12796,Adonis\AS-587,Mr. Mark Clayton,M,1985-05-22,2021-11-12,2022-04-16,1,Belize,Costa Rica,974.38,0,1,2,632.58
+IDXX50289,Adonis\AS-168,Ms. Marcia Tingley,F,1998-11-29,2021-01-30,2021-11-30,1,Puerto Rico,Argentina,6312.31,2,0,1,933.66
+IDXX84452,Adonis\AS-905,Mr. Ken Meyer,M,1985-12-23,2021-05-19,2022-05-17,1,Timor-Leste,United Kingdom,13222.38,2,0,1,
+IDYY07382,Calisto\CS-194,Mr. Kenneth Diefenderfer,M,2005-10-01,2021-01-28,2021-10-10,1,Albania,Estonia,1971.2,2,1,2,
+IDZZ78390,Omega\OG-745,Mr. Genaro Leu,M,1996-10-04,2021-03-27,2021-06-17,1,Comoros,Malawi,1051.06,1,1,2,
+IDYY60534,Calisto\CS-510,Mr. John Matthew,M,1984-11-03,2021-12-18,2022-10-18,1,Trinidad and Tobago,Sri Lanka,15346.66,2,0,1,1520.45
+IDZZ18666,Omega\OG-455,Mr. Robert Payton,M,2005-01-16,2021-07-27,2021-08-28,1,Réunion,Chile,11609.07,2,0,3,2385.44
+IDXX66192,Adonis\AS-793,Ms. Mary Call,F,1980-02-28,2021-01-17,2021-06-10,1,Bahrain,Uganda,3367.24,2,0,2,965.55
+IDZZ93422,Omega\OG-837,Mr. Leonard Andrews,M,1996-10-02,2021-07-07,2022-06-13,1,Czech Republic,Belize,9527.1,2,1,1,784.39
+IDYY72366,Calisto\CS-962,Ms. Jennifer Dibenedetto,F,1985-10-07,2021-01-12,2021-07-13,1,Svalbard and Jan Mayen,Finland,1741.41,1,1,1,
+IDZZ85123,Omega\OG-409,Ms. Linda Knight,F,2017-10-27,2021-12-13,2022-04-29,0,Palestinian Territories,Namibia,6367.06,2,0,2,961.44
+IDXX08636,Adonis\AS-351,Mr. Richard Walter,M,2016-11-19,2021-06-03,2022-03-26,0,Guinea,Bolivia,6614.74,0,1,2,1549.41
+IDXX73616,Adonis\AS-717,Mr. Gary Carlan,M,2019-10-31,2021-07-01,2021-12-17,0,New Caledonia,Philippines,6093.64,2,0,2,
+IDYY23593,Calisto\CS-599,Mr. Eric Jorge,M,2016-07-05,2021-06-01,2021-08-29,0,Comoros,Mayotte,176.19,1,1,2,
+IDXX04215,Adonis\AS-957,Mr. Eldridge Ware,M,2009-09-11,2021-06-14,2021-07-31,0,Georgia,Zambia,6373.32,0,0,3,2310.76
+IDYY96016,Calisto\CS-467,Ms. Christine Casey,F,2001-10-21,2021-12-10,2022-03-20,1,Iraq,Saint Vincent and the Grenadines,10576.77,1,1,2,1890.7
+IDXX20054,Adonis\AS-530,Mr. Brandon Morales,M,1994-04-18,2021-07-03,2021-12-31,1,Pakistan,Guernsey,6241.22,0,0,1,
+IDZZ12061,Omega\OG-703,Mr. Ross Howard,M,1984-11-29,2021-09-27,2021-11-18,1,United States,Venezuela,4512.95,2,1,2,749.44
+IDZZ51735,Omega\OG-909,Ms. Helen Baer,F,1986-12-02,2021-05-27,2021-11-20,1,Eritrea,Timor-Leste,9846.1,1,1,2,1429.43
+IDYY45922,Calisto\CS-298,Ms. Tammy Campbell,F,1987-06-28,2021-10-30,2022-10-25,1,Laos,Czech Republic,8135.15,2,0,1,956.44
+IDYY92961,Calisto\CS-569,Mr. Richard Oneal,M,1996-07-14,2021-04-03,2021-05-28,1,Cambodia,Austria,9023.56,2,0,2,
+IDYY39997,Calisto\CS-095,Mr. Jack Grist,M,2013-09-17,2021-10-22,2022-06-29,0,South Africa,Greenland,12441.59,1,0,1,1292.11
+IDZZ77080,Omega\OG-303,Mr. Jerold York,M,2014-05-01,2021-02-20,2021-04-16,0,Slovakia,Equatorial Guinea,5311.29,0,1,2,941.87
+IDYY47980,Calisto\CS-559,Ms. Edith Piccolomini,F,2001-08-12,2021-04-18,2021-05-21,1,Nigeria,Sri Lanka,7925.41,0,1,2,
+IDXX25779,Adonis\AS-359,Ms. Francis Bryant,F,1991-10-02,2021-02-10,2021-08-10,1,Lithuania,Tonga,15931.49,2,1,1,1705.72
+IDXX92972,Adonis\AS-655,Ms. Paula Collins,F,2000-01-31,2021-06-22,2021-12-30,1,Hungary,Montenegro,495.89,1,1,1,391.7
+IDYY25329,Calisto\CS-717,Mr. Clifford Cadwallader,M,1989-04-15,2021-10-18,2022-07-30,1,Macau,Zambia,10134.37,1,1,2,
+IDYY58722,Calisto\CS-581,Ms. Stacey Duckworth,F,1989-09-09,2021-12-12,2022-09-09,1,Guam,Guatemala,13162.79,2,1,1,1211.36
+IDZZ50376,Omega\OG-800,Ms. Patricia Lindsey,F,2018-06-25,2021-08-07,2022-04-24,0,Paraguay,Benin,7546.81,1,0,2,1214.1
+IDYY67672,Calisto\CS-077,Ms. Gina Russell,F,2020-02-29,2021-08-25,2022-05-21,0,Costa Rica,Azerbaijan,12562.52,1,1,2,2072.72
+IDYY62986,Calisto\CS-118,Ms. Elizabeth Lamson,F,2002-05-06,2021-06-07,2021-08-17,1,Serbia,Paraguay,11015.21,2,0,2,2051.2
+IDZZ11721,Omega\OG-509,Ms. Virginia Lindsay,F,1989-04-30,2021-07-25,2021-12-15,1,San Marino,Finland,2181.41,2,0,2,568.15
+IDYY92951,Calisto\CS-486,Mr. Leonard Wheeler,M,1998-09-15,2021-08-28,2022-07-19,1,Trinidad and Tobago,Barbados,333.19,0,0,1,562.28
+IDZZ50635,Omega\OG-589,Ms. Katie Laliberte,F,2018-06-25,2021-06-17,2022-05-01,0,Haiti,Wallis and Futuna,12049.65,1,1,2,
+IDZZ55264,Omega\OG-888,Mr. Carl Weir,M,1995-12-08,2021-09-03,2021-12-27,1,Ghana,Guam,15571.15,1,1,2,2048.45
+IDXX64294,Adonis\AS-573,Mr. John Peluso,M,2006-07-12,2021-05-20,2021-10-27,0,Cambodia,Yemen,6090.5,0,1,2,1451.48
+IDYY34909,Calisto\CS-903,Ms. Gaynell Mcvay,F,2007-09-11,2021-09-11,2022-08-02,0,Bosnia and Herzegovina,Saint Helena,8086.85,2,0,1,829.64
+IDZZ75267,Omega\OG-861,Ms. Lindsey Mcqueen,F,1987-05-13,2021-10-14,2022-08-28,1,India,Albania,5940.94,2,1,2,
+IDZZ96506,Omega\OG-743,Mr. Rogelio Hobbs,M,1993-04-28,2021-07-10,2022-01-10,1,Cayman Islands,Faroe Islands,7256.81,1,1,1,
+IDYY59209,Calisto\CS-112,Ms. Charlene Westberry,F,2005-04-18,2021-03-20,2021-05-03,1,Eritrea,Botswana,4488.17,0,1,2,1130.99
+IDXX94117,Adonis\AS-345,Ms. Anna Woodard,F,1994-01-13,2021-08-30,2021-12-28,1,Saint Helena,Micronesia,17253.42,2,0,2,3744.56
+IDYY98803,Calisto\CS-689,Mr. Thomas Ojala,M,2018-01-26,2021-12-19,2022-11-17,0,Belarus,Vanuatu,14485.26,1,0,1,1464.81
+IDXX67334,Adonis\AS-669,Ms. Heather Pell,F,1989-08-26,2021-10-06,2022-09-13,1,Bhutan,Turkey,5213.03,1,0,1,922.31
+IDXX59775,Adonis\AS-004,Mr. Ronald Randall,M,1998-12-08,2021-01-16,2021-11-12,1,Jamaica,Benin,8607.88,0,0,1,
+IDXX45843,Adonis\AS-266,Ms. Jasmine Zimmerman,F,1990-05-05,2021-06-29,2021-08-10,1,Somalia,Japan,9863.87,1,0,2,2379.62
+IDYY84240,Calisto\CS-909,Mr. Jon Vann,M,2015-10-26,2021-02-04,2021-03-03,0,Nepal,Bahamas,13768.95,2,1,2,2145.2
+IDZZ65470,Omega\OG-932,Mr. Herman Serisky,M,1999-06-10,2021-12-12,2021-12-24,1,Mauritania,Kenya,5800.45,1,0,2,1110.05
+IDYY70450,Calisto\CS-401,Ms. Vanetta Casler,F,2021-09-16,2021-08-29,2022-02-01,0,Indonesia,Mali,12998.94,2,1,2,
+IDXX87805,Adonis\AS-814,Mr. Michael Pitts,M,1982-04-19,2021-07-31,2022-05-08,1,Chile,Puerto Rico,6022.26,0,1,2,1522.97
+IDYY60760,Calisto\CS-446,Mr. Miguel Vanwassenhove,M,2012-01-19,2021-11-11,2022-04-11,0,China,Guinea-Bissau,11757.62,1,0,2,
+IDZZ51967,Omega\OG-491,Mr. Jason Sims,M,2003-05-06,2021-03-26,2021-10-15,1,China,Greenland,7783.02,0,1,1,889.91
+IDXX38145,Adonis\AS-697,Ms. Doris Sorrell,F,2019-06-22,2021-01-09,2021-03-28,0,Denmark,Austria,1033.0,1,1,2,
+IDYY71770,Calisto\CS-253,Mr. Leroy Scott,M,1997-10-21,2021-04-06,2021-10-10,1,Greenland,Palestinian Territories,6238.5,1,1,2,1277.33
+IDXX02757,Adonis\AS-115,Ms. Jill Mayfield,F,2016-04-25,2021-01-31,2021-05-12,0,Nauru,Equatorial Guinea,17436.82,2,1,2,3320.54
+IDYY51994,Calisto\CS-960,Ms. Jacqueline Wampler,F,2016-02-22,2021-07-27,2021-11-10,0,Guernsey,Honduras,8284.36,1,1,2,1460.56
+IDXX25586,Adonis\AS-384,Ms. Barbara Mccutchen,F,2002-04-08,2021-11-26,2022-01-16,1,Vatican City,Morocco,2065.59,1,1,3,
+IDYY38446,Calisto\CS-947,Ms. Marjorie Sawyers,F,2012-03-24,2021-03-25,2021-10-17,0,Angola,Isle of Man,7585.27,1,0,2,1514.89
+IDZZ21423,Omega\OG-346,Ms. Etta Barth,F,1992-11-29,2021-07-14,2022-06-09,1,Andorra,Barbados,6675.36,2,0,1,699.47
+IDZZ95376,Omega\OG-825,Mr. Shane Broyles,M,2008-05-21,2021-11-14,2021-12-07,0,United Arab Emirates,Afghanistan,1786.3,2,1,2,
+IDYY72736,Calisto\CS-142,Ms. Jennifer Tester,F,1990-08-20,2021-07-05,2022-05-01,1,Haiti,Guadeloupe,1103.74,1,0,2,606.66
+IDYY10594,Calisto\CS-277,Mr. Billy Whiteman,M,1995-09-11,2021-06-13,2021-12-09,1,Honduras,Uruguay,6225.23,2,0,2,1293.92
+IDXX09893,Adonis\AS-645,Mr. Vern Jackson,M,2008-06-20,2021-12-17,2022-03-15,0,Gambia,Saudi Arabia,6429.1,0,1,2,1515.73
+IDZZ43051,Omega\OG-675,Ms. Ann Diaz,F,2012-08-14,2021-12-24,2022-02-23,0,Mongolia,Pakistan,3476.01,0,0,2,822.71
+IDXX15044,Adonis\AS-481,Mr. Alexander Dube,M,2004-09-28,2021-08-06,2022-04-22,1,India,South Korea,5022.22,2,0,1,
+IDXX88742,Adonis\AS-215,Mr. Hobert Bonney,M,2006-10-03,2021-12-23,2022-09-27,0,Bahamas,Kosovo,8798.16,1,0,1,1191.1
+IDZZ74300,Omega\OG-703,Mr. Henry Evans,M,1996-04-16,2021-07-23,2022-04-12,1,Guam,Wallis and Futuna,5174.55,2,1,1,548.48
+IDXX27886,Adonis\AS-688,Ms. Cristine Maung,F,2019-05-14,2021-03-08,2021-04-02,0,Tonga,Indonesia,8005.79,1,1,2,1706.01
+IDYY03989,Calisto\CS-445,Ms. Susan Wheeler,F,2005-11-29,2021-07-10,2022-01-02,1,Vanuatu,Burundi,14864.85,1,1,2,2521.69
+IDYY64939,Calisto\CS-993,Ms. Bridget Handsaker,F,1993-07-16,2021-12-16,2022-01-09,1,Ecuador,Oman,14606.58,1,0,3,3932.76
+IDXX40699,Adonis\AS-443,Ms. Constance Wilkins,F,2003-09-20,2021-01-23,2021-01-29,1,Uzbekistan,Colombia,13438.08,2,1,2,2677.65
+IDYY23735,Calisto\CS-309,Ms. Sally Tee,F,2015-12-01,2021-03-06,2021-08-23,0,China,Central African Republic,8980.82,1,0,2,1730.41
+IDZZ25822,Omega\OG-218,Ms. Ebony Cargile,F,2011-04-16,2021-01-01,2021-09-13,0,Antarctica,Saudi Arabia,11481.74,1,0,1,995.11
+IDXX39925,Adonis\AS-996,Mr. Kenneth Dickerson,M,2019-12-15,2021-07-26,2021-08-11,0,Norway,Netherlands Antilles,8153.43,2,1,2,1651.86
+IDZZ43099,Omega\OG-053,Ms. Tina Bohnet,F,2018-05-01,2021-01-12,2021-02-05,0,Palau,Mozambique,11235.48,2,1,2,1387.83
+IDZZ52253,Omega\OG-722,Mr. Delbert Pham,M,1998-12-13,2021-10-03,2022-08-02,1,Martinique,Rwanda,10169.8,2,0,1,902.82
+IDZZ80945,Omega\OG-450,Ms. Alexis Hefferman,F,2018-10-04,2021-08-26,2022-07-21,0,Honduras,Armenia,12085.56,1,1,1,
+IDYY49313,Calisto\CS-422,Ms. Janine Staelens,F,2018-09-15,2021-02-12,2021-03-27,0,Saint Vincent and the Grenadines,Italy,7726.09,0,1,3,2049.1
+IDZZ07507,Omega\OG-795,Mr. Stephen Moller,M,2018-09-08,2021-02-02,2021-08-24,0,French Southern Territories,Puerto Rico,14807.46,1,1,1,1061.44
+IDXX44604,Adonis\AS-740,Ms. Maxine Marshall,F,2017-08-28,2021-09-13,2022-06-27,0,Mali,Kyrgyzstan,7815.09,1,1,1,973.33
+IDZZ96158,Omega\OG-822,Mr. John Mccafferty,M,1987-09-21,2021-12-04,2022-10-29,1,Canada,Cuba,4512.91,1,0,2,950.07
+IDYY75261,Calisto\CS-995,Ms. Debra Gonzalez,F,1985-03-03,2021-09-19,2022-08-17,1,Bahamas,Slovenia,8215.3,1,0,1,1072.82
+IDYY96137,Calisto\CS-585,Mr. Curtis Kitchel,M,1987-04-12,2021-01-05,2021-05-14,1,New Zealand,Mexico,11126.48,1,1,2,1981.52
+IDZZ40238,Omega\OG-870,Mr. Bryon Walker,M,1990-09-30,2021-10-14,2022-04-01,1,Haiti,Anguilla,975.87,1,1,2,
+IDYY43936,Calisto\CS-575,Ms. Verna Evans,F,2004-07-18,2021-05-22,2022-03-29,1,Ecuador,Macau,17438.82,2,1,1,1527.91
+IDXX55026,Adonis\AS-716,Mr. Jimmy Jines,M,1984-10-25,2021-10-23,2021-12-09,1,Bangladesh,Pakistan,2208.24,2,0,2,
+IDZZ94198,Omega\OG-008,Mr. Francisco Reddick,M,2012-03-09,2021-10-31,2022-09-21,0,Saint Kitts and Nevis,United Arab Emirates,11788.55,1,1,1,
+IDYY69709,Calisto\CS-953,Mr. Andrew Dodson,M,1980-11-24,2021-04-24,2021-10-29,1,Gibraltar,Pakistan,6809.6,0,0,1,
+IDXX02937,Adonis\AS-481,Ms. Nadine Griffin,F,2016-08-11,2021-03-10,2021-09-13,0,Gambia,Nicaragua,7548.53,1,1,1,939.46
+IDXX51523,Adonis\AS-534,Ms. Paula Haza,F,2018-02-21,2021-04-30,2021-08-25,0,Seychelles,Djibouti,2327.16,0,1,2,
+IDZZ53870,Omega\OG-345,Mr. Donny Kelly,M,2016-04-17,2021-06-06,2022-04-10,0,French Southern Territories,Netherlands,12805.13,1,1,2,1655.16
+IDZZ71533,Omega\OG-458,Ms. April Lopez,F,1993-07-08,2021-07-17,2021-08-27,1,Senegal,Djibouti,6174.93,0,1,2,1142.18
+IDYY21588,Calisto\CS-580,Mr. Juan Webb,M,1987-04-13,2021-05-29,2021-06-28,1,Ethiopia,Sierra Leone,5745.35,1,0,2,1343.24
+IDZZ16618,Omega\OG-195,Ms. Clara Peace,F,1996-04-26,2021-09-29,2022-03-01,1,Philippines,Guinea-Bissau,14546.31,2,0,2,2048.11
+IDXX53870,Adonis\AS-096,Mr. Rolando Lyman,M,2002-12-02,2021-05-05,2022-04-03,1,Marshall Islands,Kazakhstan,10473.08,2,0,2,2394.18
+IDZZ24789,Omega\OG-882,Mr. Richard Yetsko,M,1981-02-16,2021-03-07,2021-04-26,1,Guam,Tonga,5828.96,1,0,2,1108.81
+IDZZ16306,Omega\OG-090,Ms. Nancy Meeks,F,2010-09-20,2021-03-11,2021-11-25,0,Maldives,Heard Island and McDonald Islands,6265.49,0,0,1,
+IDZZ05210,Omega\OG-306,Ms. Carol Haskins,F,1991-10-17,2021-11-12,2021-12-10,1,Serbia,Denmark,1586.62,2,1,2,437.64
+IDZZ66521,Omega\OG-730,Ms. Eleanor Hull,F,2005-07-05,2021-04-14,2021-07-22,1,Seychelles,Saudi Arabia,3374.59,0,1,2,839.16
+IDZZ94710,Omega\OG-491,Ms. Adrian Wilkins,F,1989-10-26,2021-04-19,2021-09-04,1,Zambia,Sri Lanka,6300.67,1,0,2,1159.68
+IDYY23671,Calisto\CS-657,Ms. Judy Angel,F,2011-08-21,2021-08-09,2022-05-08,0,Serbia,Comoros,6638.77,0,1,2,1338.36
+IDXX06670,Adonis\AS-854,Ms. Mildred Edwards,F,2012-02-29,2021-06-11,2022-06-07,0,Nigeria,Russia,9480.35,0,1,1,1216.57
+IDYY22679,Calisto\CS-951,Mr. Tom Mason,M,2019-11-30,2021-01-15,2021-05-10,0,Northern Mariana Islands,Ukraine,10257.2,1,1,2,
+IDZZ69811,Omega\OG-583,Ms. Elizabeth Letarte,F,1991-03-22,2021-11-02,2022-06-28,1,Croatia,Aruba,8658.62,2,0,1,
+IDZZ38134,Omega\OG-739,Mr. Roger Rode,M,2019-06-11,2021-05-30,2021-09-22,0,Monaco,Dominica,7142.38,1,1,2,
+IDZZ23727,Omega\OG-597,Ms. Deborah Wright,F,1981-06-18,2021-10-06,2022-09-17,1,Lesotho,Indonesia,9557.82,0,0,2,1675.99
+IDXX02038,Adonis\AS-251,Mr. Stephen Bowden,M,2008-07-22,2021-09-30,2022-03-31,0,French Southern Territories,Namibia,5294.37,0,0,1,927.26
+IDXX21170,Adonis\AS-276,Mr. Dirk Byrd,M,2009-04-25,2021-06-11,2021-07-22,0,Belize,Côte d'Ivoire,9025.88,0,0,2,2207.54
+IDZZ59730,Omega\OG-974,Mr. Eric Knapp,M,2004-06-14,2021-02-16,2021-09-28,1,Saint Pierre and Miquelon,Armenia,7615.81,2,1,1,
+IDYY27065,Calisto\CS-815,Ms. Louise Minard,F,2000-09-08,2021-05-31,2022-05-17,1,Syria,Mayotte,5341.9,1,0,1,
+IDXX15495,Adonis\AS-892,Ms. Kathy Coard,F,1986-02-23,2021-02-14,2021-02-22,1,Ethiopia,Vietnam,7389.26,2,0,2,1775.87
+IDZZ83038,Omega\OG-983,Mr. Javier Smith,M,2011-07-27,2021-01-14,2021-03-26,0,Germany,Fiji,16063.72,2,1,2,1908.14
+IDXX48103,Adonis\AS-678,Mr. Louis Carvalho,M,2010-03-06,2021-11-18,2022-03-15,0,Bahrain,Northern Mariana Islands,9640.64,0,0,2,2322.61
+IDYY79603,Calisto\CS-274,Mr. Tim Stroh,M,2016-12-28,2021-06-08,2022-04-16,0,Sierra Leone,Australia,15937.39,1,0,2,2849.72
+IDYY70772,Calisto\CS-782,Ms. Mildred Phair,F,2016-06-28,2021-02-27,2021-07-07,0,Cuba,American Samoa,10833.42,2,1,2,1723.66
+IDZZ41458,Omega\OG-383,Mr. Edgar Sousa,M,2000-01-27,2021-11-02,2022-09-14,1,Kiribati,Namibia,17003.06,1,1,1,1288.2
+IDXX70329,Adonis\AS-323,Mr. Raymond Hall,M,1989-08-21,2021-08-26,2022-06-26,1,Azerbaijan,Panama,12459.4,1,0,2,
+IDZZ88282,Omega\OG-093,Ms. Judith Hurst,F,2017-03-17,2021-12-03,2022-03-21,0,Honduras,Iraq,12466.11,2,1,2,1516.22
+IDYY27930,Calisto\CS-704,Ms. Diane Mccormack,F,2013-04-15,2021-01-30,2021-03-26,0,United Arab Emirates,Central African Republic,3985.88,2,1,2,736.72
+IDYY91290,Calisto\CS-869,Ms. Dana Barksdale,F,2014-05-31,2021-08-23,2022-03-12,0,Barbados,Dominica,316.22,0,0,2,
+IDXX94713,Adonis\AS-180,Mr. Raymond Sokol,M,2006-12-02,2021-10-12,2022-04-21,0,Ghana,Saint Pierre and Miquelon,6778.33,0,0,1,
+IDZZ74416,Omega\OG-041,Ms. Veronica Selkirk,F,1987-07-05,2021-03-17,2021-12-30,1,Paraguay,Syria,12127.15,1,0,1,
+IDYY81599,Calisto\CS-762,Mr. Ricky Baker,M,2010-03-26,2021-12-08,2022-08-05,0,Colombia,Seychelles,14467.21,1,1,1,1306.83
+IDYY61755,Calisto\CS-343,Mr. Tony Eldridge,M,1991-06-19,2021-10-02,2022-09-02,1,Pitcairn Islands,South Africa,13121.61,1,1,1,
+IDZZ87968,Omega\OG-692,Mr. Jason Pearson,M,2021-02-17,2021-05-24,2022-04-01,0,Yemen,Nauru,13073.37,2,0,1,
+IDYY34284,Calisto\CS-382,Mr. Jason Wallace,M,1999-05-16,2021-03-29,2021-04-10,1,Argentina,Svalbard and Jan Mayen,14113.0,1,1,3,3423.83
+IDXX63250,Adonis\AS-732,Mr. Alan Lopez,M,2005-02-22,2021-10-14,2021-12-09,1,Benin,São Tomé and Príncipe,1121.48,0,0,2,726.35
+IDXX49209,Adonis\AS-152,Mr. Rudolph Smith,M,2017-09-06,2021-02-04,2021-08-01,0,Austria,Kyrgyzstan,4722.16,1,0,2,
+IDYY12306,Calisto\CS-525,Mr. Sean Blount,M,2020-06-14,2021-03-04,2021-10-05,0,Yemen,Mayotte,3180.68,0,0,1,683.34
+IDYY91469,Calisto\CS-570,Mr. George Rodriguez,M,2021-04-22,2021-01-12,2021-02-20,0,Mayotte,Spain,7782.63,0,1,3,2059.13
+IDYY64232,Calisto\CS-444,Ms. Mattie Goodenow,F,2002-03-27,2021-06-09,2021-07-25,1,Kuwait,Guernsey,4744.62,1,0,3,1559.21
+IDZZ44960,Omega\OG-064,Ms. Jaime Brown,F,2020-11-11,2021-06-14,2021-06-26,0,Seychelles,Brunei,6666.09,1,0,3,
+IDYY87133,Calisto\CS-813,Mr. Robert Bray,M,2019-10-04,2021-05-01,2021-09-20,0,Belize,Costa Rica,974.38,0,1,2,
+IDXX27473,Adonis\AS-020,Ms. Jane Hensley,F,1998-06-25,2021-10-04,2022-03-31,1,Niue,Romania,16748.37,2,1,2,3276.9
+IDXX03988,Adonis\AS-118,Ms. Anna Arndt,F,2020-08-12,2021-02-04,2021-05-23,0,Georgia,Bhutan,4535.59,0,0,2,1308.16
+IDYY99293,Calisto\CS-797,Ms. Laura Fenster,F,2014-12-26,2021-07-16,2022-05-08,0,Australia,Barbados,18098.79,1,1,2,
+IDYY04505,Calisto\CS-788,Ms. Darlene Romero,F,1987-03-22,2021-07-07,2021-10-30,1,Malawi,Algeria,5788.15,1,0,2,1349.9
+IDZZ98780,Omega\OG-992,Mr. Thomas Cobb,M,1988-07-30,2021-03-24,2022-03-05,1,Christmas Island,Congo [DRC],9273.99,2,0,2,1410.89
+IDXX35209,Adonis\AS-679,Ms. Jennifer Bennett,F,2015-11-05,2021-03-14,2021-12-26,0,Belgium,Saint Vincent and the Grenadines,7198.68,0,1,2,
+IDYY54877,Calisto\CS-575,Mr. Donnie Amenta,M,1989-10-31,2021-04-28,2022-04-07,1,Sierra Leone,Ireland,5014.09,0,0,1,941.05
+IDZZ90764,Omega\OG-092,Ms. Janet Delaney,F,1994-11-19,2021-01-14,2021-05-05,1,Oman,Faroe Islands,6504.04,0,1,2,
+IDYY02245,Calisto\CS-527,Ms. Suzanne Hofmeister,F,1984-10-20,2021-10-12,2022-05-13,1,Sweden,Gibraltar,3171.83,2,0,1,552.45
+IDYY19568,Calisto\CS-290,Mr. Robert Lentz,M,1998-12-27,2021-06-01,2021-11-01,1,Kazakhstan,Iraq,2545.29,0,1,2,858.04
+IDZZ84905,Omega\OG-681,Ms. Lauri Plummer,F,2002-07-29,2021-11-12,2022-07-10,1,Malawi,Cuba,12814.9,2,1,2,
+IDZZ36548,Omega\OG-262,Mr. Jimmie Sparks,M,1992-12-21,2021-05-31,2021-08-15,1,Sri Lanka,Botswana,6975.66,0,1,2,
+IDZZ00163,Omega\OG-809,Mr. Guy Barham,M,2020-12-30,2021-06-21,2021-07-04,0,Germany,Japan,9058.35,0,1,3,1839.24
+IDYY15454,Calisto\CS-308,Mr. Manual Taylor,M,1983-03-11,2021-06-29,2021-09-12,1,Georgia,North Korea,6729.0,1,0,2,1496.8
+IDYY09588,Calisto\CS-099,Ms. Naomi Walks,F,2006-06-22,2021-11-12,2022-08-07,1,Lithuania,Honduras,9855.29,1,0,2,
+IDXX81497,Adonis\AS-456,Ms. Annette Wright,F,2012-07-27,2021-05-13,2022-03-31,0,Saint Pierre and Miquelon,Mayotte,11923.29,1,1,1,1340.84
+IDZZ27823,Omega\OG-010,Ms. Diane Farnsworth,F,1981-11-18,2021-04-01,2021-05-19,1,Vatican City,Tanzania,5837.33,1,1,2,999.87
+IDZZ90041,Omega\OG-157,Mr. Barry Shelton,M,1981-11-20,2021-01-14,2021-12-26,1,Côte d'Ivoire,Kazakhstan,8093.5,2,0,2,
+IDZZ61911,Omega\OG-997,Mr. Joseph Quintanilla,M,2011-04-24,2021-03-01,2022-01-13,0,Indonesia,Serbia,10312.96,2,0,1,809.4
+IDZZ42880,Omega\OG-789,Mr. Jordan Caldwell,M,1981-05-09,2021-05-23,2022-03-01,1,Romania,Bulgaria,359.63,0,1,1,486.62
+IDYY59764,Calisto\CS-283,Ms. Claire Laseter,F,2005-07-27,2021-03-26,2021-06-19,0,Rwanda,Anguilla,10397.09,2,0,2,1842.89
+IDXX71041,Adonis\AS-411,Ms. Maria Burch,F,1993-09-05,2021-11-01,2022-09-18,1,Latvia,Dominican Republic,8564.39,2,0,2,
+IDXX44116,Adonis\AS-774,Ms. Lisa Abrams,F,2017-06-23,2021-08-27,2022-07-30,0,Spain,Lebanon,3559.37,1,0,2,1013.18
+IDZZ00771,Omega\OG-209,Ms. Peggy Fox,F,2016-12-08,2021-11-08,2022-10-28,0,Central African Republic,Gabon,1325.01,2,0,1,259.97
+IDXX85719,Adonis\AS-947,Mr. James Gill,M,2012-03-30,2021-07-01,2022-02-27,0,Macedonia [FYROM],Saint Pierre and Miquelon,5984.31,1,0,2,1497.64
+IDYY78057,Calisto\CS-413,Mr. Rogelio Reynolds,M,2019-04-18,2021-06-27,2021-12-24,0,Bouvet Island,Puerto Rico,10435.55,2,0,1,1010.78
+IDZZ15895,Omega\OG-451,Mr. Randal Russell,M,1981-01-28,2021-01-28,2022-01-07,1,Singapore,Honduras,17887.16,1,1,1,1337.95
+IDXX56910,Adonis\AS-197,Ms. Dolores Smith,F,2010-01-28,2021-06-14,2021-10-04,0,Panama,Nigeria,9810.05,2,0,2,2155.56
+IDYY65737,Calisto\CS-764,Mr. Raymond Daus,M,2011-02-10,2021-09-21,2021-10-19,0,Brunei,Uzbekistan,6443.28,1,1,2,1196.24
+IDXX32835,Adonis\AS-557,Mr. Wesley Prescott,M,2008-06-20,2021-08-08,2021-11-25,0,Fiji,Gibraltar,17809.47,1,1,2,
+IDZZ07314,Omega\OG-787,Ms. Ada Berry,F,2019-08-23,2021-09-02,2022-04-22,0,Albania,Equatorial Guinea,4508.52,1,0,1,564.44
+IDYY51967,Calisto\CS-299,Ms. Colleen Bullard,F,2013-05-11,2021-08-29,2021-11-10,0,Comoros,Eritrea,3045.17,0,0,2,
+IDYY90937,Calisto\CS-987,Ms. Laurie Gourley,F,2017-05-20,2021-12-10,2022-09-19,0,Christmas Island,Chile,14894.6,2,1,1,1238.92
+IDYY89404,Calisto\CS-453,Ms. Beatrice Nolan,F,1989-01-19,2021-12-19,2022-10-20,1,Puerto Rico,Macau,15537.66,2,1,1,1384.45
+IDZZ06168,Omega\OG-818,Ms. Lucia Stump,F,1986-01-15,2021-10-12,2022-07-23,1,Grenada,Philippines,17213.54,2,1,2,2122.51
+IDYY09043,Calisto\CS-824,Ms. Erica Russell,F,2000-10-06,2021-01-23,2021-05-12,1,Ecuador,Kazakhstan,13903.17,2,1,2,
+IDZZ78009,Omega\OG-501,Ms. Katy Morgan,F,1996-12-11,2021-01-31,2021-06-24,1,Cape Verde,Gambia,979.19,1,0,2,
+IDYY53090,Calisto\CS-815,Ms. Elizabeth Prey,F,2019-04-05,2021-09-19,2021-10-20,0,Philippines,Palestinian Territories,8942.77,2,0,2,1614.52
+IDZZ16356,Omega\OG-857,Mr. George Harris,M,1982-01-15,2021-08-30,2022-06-25,1,Mongolia,Norway,5887.51,2,0,2,
+IDZZ05328,Omega\OG-430,Mr. Mark Nelson,M,2000-03-31,2021-02-13,2021-12-10,1,Jersey,Tajikistan,5750.69,2,0,1,641.77
+IDXX08896,Adonis\AS-252,Mr. Steve Hodges,M,2001-05-26,2021-06-07,2021-06-17,1,Christmas Island,Saudi Arabia,7616.05,0,0,2,2022.21
+IDYY64789,Calisto\CS-497,Mr. John Jarrard,M,2008-12-14,2021-11-16,2022-06-17,0,Gabon,Cambodia,10405.39,2,1,1,
+IDXX37778,Adonis\AS-559,Mr. Daron Hunt,M,1988-10-19,2021-09-27,2022-05-25,1,Netherlands,Algeria,2699.55,1,0,1,
+IDXX18511,Adonis\AS-468,Ms. Joye Miosky,F,2009-05-04,2021-11-24,2022-02-02,0,Eritrea,Estonia,4985.21,0,0,2,
+IDYY46037,Calisto\CS-376,Mr. James Legan,M,1980-10-14,2021-03-09,2021-07-02,1,Djibouti,Belize,13763.23,1,0,2,2622.99
+IDXX47667,Adonis\AS-174,Mr. Joel Jarman,M,1986-05-01,2021-06-21,2021-08-06,1,Bahrain,Norfolk Island,13910.87,1,0,2,
+IDZZ70967,Omega\OG-678,Ms. Yesenia Kropf,F,2002-04-12,2021-10-17,2021-10-29,1,Guinea,Côte d'Ivoire,529.26,1,1,2,425.06
+IDYY80958,Calisto\CS-829,Ms. Patricia Simms,F,2011-04-21,2021-02-02,2021-05-22,0,United Kingdom,Australia,15222.75,2,0,2,
+IDXX17333,Adonis\AS-014,Ms. Nancy Meyerhofer,F,2004-01-16,2021-02-27,2022-01-25,1,Angola,Congo [Republic],1242.45,0,0,1,
+IDYY75078,Calisto\CS-775,Ms. Doretha Carter,F,2016-11-25,2021-10-15,2022-01-12,0,Antarctica,Ireland,14335.09,1,0,2,2587.58
+IDYY03868,Calisto\CS-808,Mr. Adrian Hodges,M,1994-04-21,2021-07-09,2022-01-07,1,Heard Island and McDonald Islands,Lebanon,10340.08,2,1,1,
+IDXX81301,Adonis\AS-070,Mr. Rickie Henriquez,M,1980-02-10,2021-01-28,2021-06-10,1,Christmas Island,Uruguay,14863.48,1,1,2,3024.68
+IDYY70864,Calisto\CS-860,Ms. Amy Olmstead,F,1987-05-05,2021-06-25,2022-03-26,1,Niger,Turkey,3543.34,2,1,2,776.36
+IDZZ36738,Omega\OG-531,Mr. Chad Carey,M,2002-07-11,2021-01-20,2021-09-25,1,Slovakia,French Polynesia,16449.45,2,1,2,
+IDXX09366,Adonis\AS-332,Ms. Blanch Danson,F,1990-05-10,2021-10-25,2021-12-27,1,Guernsey,Turkmenistan,4945.91,0,1,2,1349.83
+IDYY75252,Calisto\CS-556,Ms. Monique Gutierrez,F,2019-12-28,2021-03-09,2021-11-20,0,Liechtenstein,Serbia,957.24,0,1,2,
+IDXX43796,Adonis\AS-653,Ms. Anna Perez,F,1985-12-29,2021-11-01,2022-06-21,1,French Polynesia,Bahamas,9134.92,2,1,1,1100.54
+IDXX29381,Adonis\AS-988,Ms. Vera Ouye,F,1985-07-09,2021-11-17,2022-03-04,1,Denmark,Kiribati,14147.03,1,1,2,2903.84
+IDYY26022,Calisto\CS-971,Mr. Bradford Green,M,1988-02-22,2021-02-24,2021-06-08,1,Guam,Philippines,2495.07,1,0,2,827.59
+IDZZ59311,Omega\OG-482,Ms. Gwendolyn Allen,F,1997-03-10,2021-05-22,2022-05-04,1,Honduras,Cook Islands,8993.92,1,0,1,
+IDZZ21407,Omega\OG-876,Ms. Alice Rudolph,F,2007-02-17,2021-11-07,2022-05-23,0,India,French Guiana,14137.46,1,0,1,
+IDXX49162,Adonis\AS-243,Mr. Adam Page,M,1984-01-23,2021-10-28,2022-03-22,1,Japan,San Marino,9571.3,1,1,2,2079.87
+IDXX58939,Adonis\AS-007,Mr. Robert Anderson,M,1982-08-05,2021-08-15,2022-06-19,1,Singapore,Taiwan,3099.18,2,1,2,
+IDZZ08571,Omega\OG-039,Ms. Leann Kroll,F,2019-09-29,2021-07-14,2021-09-03,0,Mayotte,Isle of Man,8810.22,2,0,2,1243.93
+IDXX73408,Adonis\AS-044,Mr. Brian Hernandez,M,2000-01-06,2021-08-22,2021-11-09,1,Cyprus,Anguilla,9431.04,0,1,2,2149.24
+IDZZ83542,Omega\OG-073,Ms. Lorraine Conyers,F,1999-03-22,2021-04-10,2021-12-18,1,Libya,San Marino,2006.59,0,0,2,763.69
+IDYY79735,Calisto\CS-027,Mr. Johnny Escobar,M,1996-11-25,2021-06-24,2022-01-10,1,Suriname,Samoa,12940.13,2,1,1,1203.47
+IDYY12779,Calisto\CS-384,Ms. Katherine Lee,F,2021-07-12,2021-05-04,2022-04-21,0,Botswana,Zambia,1076.96,2,0,1,265.8
+IDYY46623,Calisto\CS-410,Mr. Charles Watlington,M,2006-06-07,2021-01-08,2021-03-14,0,Indonesia,Saint Helena,13387.26,2,1,2,
+IDZZ83388,Omega\OG-050,Ms. Stephanie Ybarra,F,2018-07-31,2021-03-18,2021-04-20,0,Jamaica,Brunei,17191.57,2,0,2,2253.16
+IDXX16447,Adonis\AS-128,Ms. Marjorie Eggers,F,1992-11-02,2021-05-13,2021-09-29,1,Cyprus,Niger,3175.91,2,0,2,939.97
+IDZZ45189,Omega\OG-009,Mr. Joseph Deutsch,M,1997-04-01,2021-08-15,2021-09-17,1,Latvia,Moldova,1084.48,0,1,2,592.37
+IDXX98596,Adonis\AS-525,Ms. Kristine Zmolek,F,2011-05-30,2021-01-04,2021-03-05,0,French Southern Territories,Saint Pierre and Miquelon,16074.98,1,1,2,3164.26
+IDYY93462,Calisto\CS-278,Ms. Vicki Schuler,F,1991-09-05,2021-06-16,2021-10-14,1,Mongolia,Armenia,4698.4,2,1,2,945.24
+IDZZ61403,Omega\OG-787,Mr. Lance Dodson,M,1984-08-15,2021-03-26,2021-04-13,1,Liberia,Latvia,6351.98,0,0,2,1272.72
+IDZZ48504,Omega\OG-281,Mr. Paul Fraughton,M,2008-06-24,2021-09-20,2022-05-30,0,Comoros,Taiwan,9267.23,0,1,1,870.25
+IDXX72972,Adonis\AS-034,Ms. Charlotte Shives,F,2021-05-31,2021-12-05,2022-05-01,0,Mauritius,Turks and Caicos Islands,14795.77,1,0,2,3266.36
+IDXX52635,Adonis\AS-880,Mr. Michael Flipp,M,2010-03-05,2021-09-05,2021-10-02,0,Turks and Caicos Islands,Chad,9442.37,0,0,3,3232.15
+IDXX82883,Adonis\AS-336,Mr. John Troutman,M,1985-08-03,2021-06-07,2022-02-25,1,Senegal,French Guiana,4400.73,2,1,1,667.17
+IDXX22325,Adonis\AS-144,Mr. Maximo Fish,M,2016-04-04,2021-09-11,2022-04-05,0,São Tomé and Príncipe,Tonga,17691.96,2,1,1,1778.52
+IDXX19076,Adonis\AS-836,Mr. Kristopher Reese,M,2020-01-03,2021-11-29,2022-01-29,0,Saudi Arabia,Western Sahara,5846.93,1,0,2,1467.78
+IDXX43329,Adonis\AS-107,Mr. Thaddeus Huston,M,2018-02-15,2021-08-01,2021-11-01,0,Isle of Man,France,1012.12,2,0,2,
+IDXX17907,Adonis\AS-103,Mr. Joseph Mims,M,2005-07-04,2021-04-27,2021-11-21,1,Turkmenistan,Sudan,4096.2,1,0,2,
+IDZZ74184,Omega\OG-300,Ms. Yolanda Porter,F,2014-08-23,2021-07-09,2021-11-11,0,Iraq,Switzerland,3341.75,1,1,2,631.67
+IDZZ87864,Omega\OG-188,Ms. Dawn Boyd,F,2003-11-16,2021-10-28,2022-06-15,1,Spain,Grenada,6430.14,2,0,1,
+IDXX40870,Adonis\AS-069,Ms. Britt Baugh,F,2014-08-20,2021-06-01,2021-09-01,0,Norfolk Island,San Marino,17305.41,2,1,2,
+IDYY47937,Calisto\CS-287,Mr. Tony Berry,M,2016-12-24,2021-11-25,2022-04-24,0,Gambia,Wallis and Futuna,18073.06,1,0,2,3196.87
+IDZZ49097,Omega\OG-174,Mr. John Balsamo,M,1984-08-10,2021-07-24,2021-08-12,1,Sierra Leone,Bouvet Island,7143.35,1,0,2,1269.05
+IDZZ99422,Omega\OG-919,Ms. Ariana Wirth,F,1995-09-10,2021-05-03,2021-06-09,1,Trinidad and Tobago,Nigeria,7650.71,2,1,2,1097.77
+IDYY07103,Calisto\CS-315,Ms. Mildred Stevens,F,2013-04-04,2021-11-06,2022-03-08,0,Guernsey,Russia,6128.43,1,1,2,1140.37
+IDYY61422,Calisto\CS-275,Mr. Kevin Bowman,M,1994-04-15,2021-04-17,2021-12-31,1,Faroe Islands,Timor-Leste,13005.46,1,0,1,1454.38
+IDYY96618,Calisto\CS-338,Ms. Bertha Bowen,F,1987-09-15,2021-09-17,2022-03-06,1,Côte d'Ivoire,Ethiopia,5070.36,1,0,2,1223.97
+IDYY05660,Calisto\CS-622,Mr. Raul Cloninger,M,1990-09-22,2021-02-08,2021-06-11,1,Mali,India,8632.72,1,1,2,
+IDZZ70487,Omega\OG-129,Ms. Ines Pena,F,1994-10-15,2021-06-23,2021-07-22,1,Rwanda,Germany,6191.51,1,1,2,
+IDXX00229,Adonis\AS-750,Ms. Kathryn Voight,F,1982-08-13,2021-09-19,2022-03-26,1,Cook Islands,India,13966.16,1,0,2,3203.47
+IDZZ36711,Omega\OG-785,Mr. Harrison Masterson,M,1999-05-24,2021-09-10,2021-09-21,1,Argentina,Anguilla,6304.89,2,0,2,1055.28
+IDXX83705,Adonis\AS-177,Ms. Florence Sandmeier,F,2014-12-30,2021-03-02,2021-04-11,0,El Salvador,Greenland,7133.93,2,1,3,
+IDXX92064,Adonis\AS-912,Mr. Nicolas Cooper,M,1986-10-05,2021-11-25,2022-03-21,1,Kazakhstan,Eritrea,4422.26,0,1,2,1246.72
+IDXX20236,Adonis\AS-260,Mr. Mark Newcomer,M,1992-07-05,2021-03-18,2021-06-28,1,Kiribati,Montserrat,11889.71,1,0,2,2790.52
+IDXX78678,Adonis\AS-047,Ms. Stephanie Peck,F,2008-08-05,2021-12-10,2022-07-27,0,South Korea,El Salvador,13292.99,2,1,1,
+IDYY35261,Calisto\CS-497,Ms. Helen Rowland,F,2004-08-23,2021-03-24,2021-11-16,1,American Samoa,Bahrain,15602.52,1,1,1,
+IDYY53453,Calisto\CS-549,Mr. William Reposa,M,2013-09-26,2021-08-31,2022-02-10,0,Laos,Cocos [Keeling] Islands,3617.32,1,1,2,
+IDXX99067,Adonis\AS-902,Ms. Kaitlyn Cooper,F,1998-01-03,2021-03-08,2021-08-14,1,Argentina,Togo,8465.55,1,1,2,1879.44
+IDZZ01766,Omega\OG-532,Ms. Natasha Adams,F,2013-10-07,2021-11-08,2022-07-02,0,Tuvalu,Singapore,8252.58,1,0,2,1286.51
+IDXX74962,Adonis\AS-055,Mr. Craig Todd,M,2004-12-11,2021-02-26,2021-05-04,1,Hungary,Saudi Arabia,3444.33,0,1,2,
+IDZZ03457,Omega\OG-433,Ms. Ella Guzman,F,1985-01-11,2021-03-29,2021-11-12,1,Liechtenstein,Uruguay,11010.55,1,1,1,959.1
+IDZZ43479,Omega\OG-318,Ms. Dorothy Towns,F,1989-08-15,2021-11-15,2022-07-08,1,Malta,Kuwait,3174.0,0,1,1,640.37
+IDYY99431,Calisto\CS-775,Ms. Barbara Bradshaw,F,2021-10-22,2021-08-01,2021-12-07,0,Guinea-Bissau,South Korea,13452.55,2,1,2,2101.01
+IDXX79484,Adonis\AS-812,Ms. Kenda Adams,F,1988-04-09,2021-10-24,2022-02-06,1,Myanmar [Burma],Bhutan,836.69,2,1,2,426.03
+IDYY03974,Calisto\CS-250,Mr. Kevin Vallery,M,2000-04-09,2021-07-31,2022-03-15,1,Liberia,Syria,5871.46,1,0,1,
+IDZZ90741,Omega\OG-187,Ms. Margaret Juarez,F,1999-12-01,2021-07-06,2022-03-09,1,Trinidad and Tobago,France,7127.19,0,1,1,856.76
+IDZZ78939,Omega\OG-112,Mr. Robert Cote,M,1990-06-02,2021-07-20,2022-04-14,1,Niue,New Caledonia,2570.46,2,1,1,408.61
+IDYY54350,Calisto\CS-897,Mr. George Moniz,M,1996-02-21,2021-03-23,2021-09-22,1,Finland,Bosnia and Herzegovina,2072.75,2,0,1,458.5
+IDYY46069,Calisto\CS-927,Ms. Janet Howell,F,2018-12-12,2021-02-08,2021-03-14,0,Poland,Serbia,890.51,1,0,3,516.58
+IDZZ87612,Omega\OG-904,Mr. Harley Fields,M,1986-12-01,2021-12-06,2022-12-04,1,North Korea,Svalbard and Jan Mayen,5971.42,0,0,2,
+IDXX40955,Adonis\AS-654,Ms. Karen Lancaster,F,1981-12-14,2021-01-29,2021-08-24,1,Palestinian Territories,Mongolia,5932.36,0,1,1,
+IDXX44138,Adonis\AS-137,Ms. Sharon Campbell,F,1997-11-29,2021-09-23,2022-05-08,1,Australia,Solomon Islands,3286.04,1,1,2,957.33
+IDXX20383,Adonis\AS-241,Ms. Alice Reed,F,2004-05-23,2021-04-08,2021-12-31,1,Cambodia,Tuvalu,8329.32,0,0,1,
+IDZZ56976,Omega\OG-986,Ms. Joan Martinez,F,1982-07-23,2021-10-18,2022-08-15,1,Afghanistan,Kenya,4894.93,0,1,1,738.88
+IDYY29596,Calisto\CS-744,Mr. Juan Hernandez,M,1986-06-04,2021-09-26,2022-04-10,1,Ghana,Luxembourg,4708.04,0,1,2,1163.2
+IDXX80588,Adonis\AS-503,Mr. Anderson Swain,M,2015-07-23,2021-07-26,2021-09-04,0,Malawi,Iran,5488.3,2,1,3,1660.55
+IDXX77944,Adonis\AS-444,Mr. William Crowley,M,1984-03-17,2021-02-10,2021-11-03,1,Djibouti,Tonga,15883.09,1,0,1,
+IDYY74801,Calisto\CS-479,Ms. Wanda Farris,F,1985-05-13,2021-01-04,2021-02-15,1,Western Sahara,Uruguay,7785.71,0,0,2,1789.33
+IDXX94925,Adonis\AS-769,Mr. Brian Loomis,M,2017-05-20,2021-02-12,2021-12-04,0,Vatican City,Pakistan,5175.38,2,0,2,1238.59
+IDZZ15295,Omega\OG-877,Ms. Nellie Fields,F,2021-08-12,2021-10-08,2022-02-16,0,Romania,Iraq,2130.83,0,0,2,670.64
+IDXX39742,Adonis\AS-144,Ms. Dorothy Tidwell,F,2007-09-08,2021-02-18,2021-07-07,0,Liberia,Suriname,5171.93,2,0,2,
+IDZZ66809,Omega\OG-050,Ms. Erin Huckabaa,F,2012-09-05,2021-08-12,2022-02-08,0,Portugal,Kenya,6416.17,2,1,1,522.25
+IDZZ87231,Omega\OG-313,Mr. Kevin Ronning,M,1986-05-11,2021-12-01,2022-06-07,1,South Africa,Pakistan,8372.99,1,0,1,917.88
+IDZZ36131,Omega\OG-299,Ms. Natasha Rossiter,F,2014-09-14,2021-10-14,2022-02-17,0,Antarctica,Angola,7215.57,0,0,2,
+IDXX66632,Adonis\AS-294,Ms. Kristina Haglund,F,2009-10-24,2021-09-23,2022-04-03,0,Pakistan,Heard Island and McDonald Islands,9298.97,1,0,2,2156.48
+IDYY88709,Calisto\CS-621,Mr. Tony Cranford,M,2019-12-01,2021-08-18,2022-04-22,0,Barbados,Saudi Arabia,10864.9,1,1,1,1060.79
+IDZZ86918,Omega\OG-547,Ms. Jennifer Ewing,F,2007-03-07,2021-05-01,2021-06-27,0,French Guiana,Malaysia,17123.18,2,0,3,3270.97
+IDXX95118,Adonis\AS-445,Mr. David Clerc,M,2010-05-12,2021-12-08,2022-01-10,0,Laos,Bolivia,18512.51,1,0,2,4001.6
+IDYY94172,Calisto\CS-881,Ms. Eva Baldwin,F,2021-10-02,2021-12-07,2022-08-24,0,Brazil,Netherlands Antilles,3499.77,0,0,1,
+IDZZ68230,Omega\OG-170,Mr. John Harari,M,1982-08-04,2021-10-30,2022-05-22,1,Luxembourg,El Salvador,9204.69,0,1,2,1467.15
+IDXX67906,Adonis\AS-688,Ms. Donna Boyd,F,2003-02-28,2021-02-18,2021-07-13,1,Cameroon,Tunisia,2966.0,1,0,2,994.39
+IDXX58505,Adonis\AS-656,Ms. Ellen Chin,F,2005-05-01,2021-09-12,2022-05-16,1,Malta,British Indian Ocean Territory,7618.31,2,0,1,
+IDZZ43072,Omega\OG-068,Mr. Ernest Schneider,M,1988-07-31,2021-10-02,2022-08-26,1,Greece,Fiji,16719.18,1,0,1,1414.64
+IDZZ06403,Omega\OG-861,Mr. Jon Morasca,M,1991-06-27,2021-11-27,2022-08-11,1,Eritrea,Malaysia,6910.68,0,0,1,
+IDZZ16401,Omega\OG-081,Mr. Peter Echols,M,1993-02-02,2021-12-01,2022-10-06,1,United Arab Emirates,Nigeria,5059.5,2,1,1,548.46
+IDXX49260,Adonis\AS-586,Ms. Juana Taylor,F,1993-03-18,2021-11-27,2022-11-15,1,Italy,Cameroon,3840.74,0,1,1,
+IDZZ78646,Omega\OG-455,Ms. Elizabeth Hebel,F,2001-02-15,2021-07-12,2021-09-08,1,Tonga,Chile,9815.22,0,1,2,
+IDZZ82462,Omega\OG-073,Mr. Tom Fierro,M,1987-09-12,2021-02-08,2021-06-13,1,Cambodia,Sudan,8086.26,2,0,2,1266.74
+IDZZ80985,Omega\OG-599,Ms. Dorothy Northern,F,2012-04-30,2021-10-23,2021-12-10,0,Australia,Mongolia,8575.72,0,1,2,1290.03
+IDXX70811,Adonis\AS-158,Ms. Camille Castelluccio,F,2016-04-04,2021-10-09,2022-09-22,0,Algeria,Sierra Leone,2595.96,1,0,1,555.64
+IDXX73146,Adonis\AS-726,Mr. William Jamison,M,2002-09-18,2021-10-10,2022-03-31,1,Hong Kong,Kazakhstan,5041.46,1,0,2,
+IDYY51427,Calisto\CS-307,Ms. Jewel Wert,F,1988-07-17,2021-07-21,2022-06-27,1,Kuwait,Russia,5491.74,1,1,1,779.83
+IDXX42765,Adonis\AS-117,Mr. John Thibault,M,1993-07-25,2021-02-27,2021-03-12,1,Tanzania,Haiti,12052.85,1,1,2,2534.77
+IDYY33336,Calisto\CS-547,Ms. Georgina Blenman,F,1991-10-14,2021-11-22,2022-02-23,1,Palau,Yemen,9375.88,1,1,2,
+IDYY79194,Calisto\CS-624,Mr. Richard Hutchins,M,2005-08-13,2021-03-20,2021-08-06,0,Indonesia,Czech Republic,10691.45,1,0,2,
+IDYY27071,Calisto\CS-085,Mr. John Mcgowan,M,2004-04-25,2021-01-01,2021-04-04,1,Lithuania,Bhutan,6066.28,1,0,2,1388.58
+IDXX92661,Adonis\AS-179,Mr. James Weigle,M,2013-08-29,2021-03-11,2021-04-20,0,Cocos [Keeling] Islands,Ethiopia,6672.66,1,0,2,1640.44
+IDYY46502,Calisto\CS-915,Mr. Bryan Thornton,M,2008-12-26,2021-06-17,2021-11-01,0,American Samoa,Moldova,15969.45,2,1,2,2458.81
+IDXX96772,Adonis\AS-412,Ms. Freda Grose,F,2010-05-06,2021-01-14,2021-07-30,0,Myanmar [Burma],Saint Lucia,15320.85,1,0,1,
+IDXX31837,Adonis\AS-443,Ms. Roxanne Davis,F,2020-07-23,2021-07-15,2022-02-12,0,Italy,Cayman Islands,8834.52,1,1,2,1849.28
+IDYY86883,Calisto\CS-428,Ms. Amanda Barner,F,1993-05-09,2021-11-13,2022-05-07,1,Switzerland,Cocos [Keeling] Islands,10900.31,1,1,2,
+IDZZ77134,Omega\OG-791,Ms. Karen Clossin,F,1999-01-28,2021-12-28,2022-09-07,1,South Korea,Monaco,9316.22,1,1,1,869.83
+IDXX97497,Adonis\AS-963,Ms. Dorothy Murphy,F,2006-10-08,2021-08-29,2022-01-10,0,Sudan,Cyprus,2499.33,1,1,2,717.16
+IDXX41975,Adonis\AS-318,Mr. John Sutphin,M,1985-05-25,2021-06-12,2022-06-01,1,Faroe Islands,Ireland,947.22,0,1,1,
+IDYY39657,Calisto\CS-848,Mr. Maximo Johson,M,1988-02-16,2021-10-19,2021-12-14,1,Anguilla,Niue,12377.98,2,1,2,2050.08
+IDZZ11395,Omega\OG-439,Mr. Jean Volz,M,2001-07-25,2021-10-29,2021-11-19,1,Estonia,Bulgaria,1765.95,2,1,2,
+IDXX69672,Adonis\AS-847,Mr. Oscar Johnston,M,1989-09-13,2021-03-11,2021-05-07,1,Cuba,France,7555.07,0,0,2,2011.62
+IDZZ68637,Omega\OG-142,Ms. Brittany Orenstein,F,1996-11-03,2021-02-06,2021-09-11,1,South Africa,Grenada,10196.82,1,0,2,1631.44
+IDZZ92420,Omega\OG-821,Mr. David Barnhart,M,1989-04-15,2021-08-08,2022-03-09,1,Kiribati,Côte d'Ivoire,18117.5,1,1,1,1342.55
+IDXX46319,Adonis\AS-971,Ms. Debra Mcclurg,F,2010-07-23,2021-04-02,2021-10-03,0,São Tomé and Príncipe,Nepal,8787.73,1,1,2,1849.74
+IDZZ54382,Omega\OG-537,Mr. John Mason,M,2008-01-17,2021-04-08,2021-05-01,0,Slovakia,Mayotte,7291.62,0,1,3,
+IDZZ95890,Omega\OG-491,Mr. Shirley Garland,M,2005-01-24,2021-06-09,2021-10-25,1,Norway,Iceland,1474.93,0,0,2,
+IDZZ52751,Omega\OG-875,Ms. Pauline Richardson,F,2004-07-29,2021-10-28,2021-11-25,1,Samoa,Mayotte,14971.63,1,1,2,1989.81
+IDYY16803,Calisto\CS-589,Ms. Lisa Miller,F,2007-09-22,2021-08-25,2022-08-06,0,Canada,Aruba,5769.26,2,0,2,1106.68
+IDZZ80043,Omega\OG-106,Mr. Billy Drayton,M,1981-06-17,2021-04-20,2021-06-18,1,Portugal,Indonesia,12782.05,2,1,2,1644.43
+IDYY38989,Calisto\CS-305,Mr. Jose Roden,M,1996-05-02,2021-08-17,2022-06-17,1,Angola,Nigeria,2477.07,2,1,1,448.07
+IDXX98590,Adonis\AS-599,Ms. Deborah Seguin,F,2013-05-06,2021-10-25,2022-10-10,0,Tuvalu,Cyprus,15234.35,2,1,1,
+IDZZ88600,Omega\OG-067,Mr. Ronald Otto,M,2019-10-30,2021-02-05,2021-05-21,0,France,Madagascar,8514.53,1,0,2,
+IDZZ96145,Omega\OG-518,Mr. Enrique Waldrep,M,2017-03-22,2021-04-17,2021-11-11,0,Saint Vincent and the Grenadines,Benin,6942.16,2,0,1,
+IDYY69035,Calisto\CS-211,Ms. Diana Helwig,F,1991-05-17,2021-05-06,2021-06-18,1,Trinidad and Tobago,Japan,14431.06,2,0,2,
+IDZZ05048,Omega\OG-733,Mr. Jason Burke,M,2008-12-14,2021-03-06,2021-08-08,0,Mali,Swaziland,6227.74,1,0,2,1060.63
+IDYY71824,Calisto\CS-273,Mr. Jim Boyd,M,2015-12-08,2021-08-06,2022-05-01,0,Norfolk Island,Bermuda,15028.07,2,0,2,2592.38
+IDXX08118,Adonis\AS-501,Ms. Regina Tran,F,2021-12-31,2021-12-28,2022-12-07,0,Macedonia [FYROM],Morocco,2779.34,2,1,1,432.32
+IDYY04608,Calisto\CS-932,Mr. Pete Baumbach,M,1990-01-09,2021-07-02,2021-09-28,1,Micronesia,Kosovo,12492.52,1,1,2,2171.61
+IDZZ92534,Omega\OG-529,Mr. Billy Daniels,M,2020-11-08,2021-09-15,2022-03-12,0,Bermuda,Canada,4144.71,1,0,2,800.42
+IDYY43062,Calisto\CS-692,Ms. Mallory Jones,F,2003-11-17,2021-05-18,2022-05-16,1,Macau,Eritrea,7746.09,1,1,1,943.88
+IDZZ19305,Omega\OG-535,Mr. William Wilt,M,2000-06-22,2021-12-21,2022-08-24,1,Angola,Côte d'Ivoire,3328.99,0,0,1,719.02
+IDZZ37535,Omega\OG-003,Mr. Joshua Carroll,M,2021-06-03,2021-04-30,2021-10-05,0,Mauritius,Azerbaijan,6812.87,1,1,2,1004.76
+IDZZ33621,Omega\OG-135,Ms. Bonnie Scott,F,2015-01-09,2021-12-25,2022-12-04,0,Singapore,Congo [DRC],9147.97,1,0,2,
+IDZZ07348,Omega\OG-511,Mr. Joseph Rhem,M,1992-02-04,2021-04-01,2022-02-12,1,British Virgin Islands,Tunisia,7456.87,2,1,2,1074.08
+IDYY80782,Calisto\CS-793,Mr. Scott Precourt,M,1994-11-17,2021-06-29,2021-10-01,1,Antigua and Barbuda,Bermuda,1724.7,0,0,2,815.89
+IDZZ46199,Omega\OG-542,Ms. Velda Ungerecht,F,1999-03-05,2021-02-08,2021-09-05,1,Cape Verde,Sierra Leone,1572.49,0,0,2,703.68
+IDYY37403,Calisto\CS-550,Mr. Mark Wagoner,M,2000-02-24,2021-11-14,2022-04-06,1,Solomon Islands,Barbados,15691.7,2,1,2,2526.82
+IDYY73086,Calisto\CS-001,Mr. Brandon Lawrence,M,2006-09-24,2021-04-05,2022-01-28,0,Martinique,Grenada,272.14,0,0,1,441.71
+IDXX58205,Adonis\AS-377,Ms. Annie Nelson,F,2008-06-14,2021-01-28,2021-06-16,0,India,Nicaragua,15929.32,2,0,2,3393.19
+IDZZ44658,Omega\OG-237,Mr. Victor Roberts,M,2019-06-24,2021-09-20,2021-10-25,0,Poland,Azerbaijan,2534.39,2,1,2,
+IDXX73652,Adonis\AS-114,Ms. Jordan Bruno,F,1994-12-22,2021-01-16,2021-07-07,1,Niger,Uganda,3205.64,2,1,2,849.46
+IDYY70911,Calisto\CS-766,Ms. Carrie Olds,F,2020-03-29,2021-04-20,2022-01-07,0,Lithuania,Indonesia,10093.2,1,0,1,1107.2
+IDYY71575,Calisto\CS-633,Ms. Leslie Cruz,F,2006-05-04,2021-09-21,2021-11-11,0,Pitcairn Islands,Jersey,14611.1,1,0,2,2640.12
+IDYY15332,Calisto\CS-759,Mr. Julio Hawes,M,2001-11-03,2021-07-16,2021-11-19,1,Macedonia [FYROM],El Salvador,10642.34,1,1,2,1904.93
+IDXX07860,Adonis\AS-899,Ms. Allison Sanders,F,1987-09-13,2021-08-01,2021-11-12,1,Faroe Islands,Portugal,2505.42,1,1,2,819.59
+IDZZ28794,Omega\OG-577,Mr. Anthony Kahn,M,1980-10-26,2021-03-19,2022-03-16,1,French Southern Territories,Cayman Islands,15778.19,2,1,1,1110.04
+IDXX23162,Adonis\AS-487,Ms. Kathleen Martin,F,1985-03-07,2021-09-04,2022-02-16,1,Marshall Islands,Barbados,13989.83,1,1,2,2881.75
+IDYY33203,Calisto\CS-129,Ms. Deborah Vega,F,1981-11-08,2021-10-17,2022-09-01,1,Japan,Zambia,12700.18,1,0,1,1434.21
+IDXX49851,Adonis\AS-870,Mr. Christopher Arnold,M,2004-04-10,2021-07-06,2022-04-08,1,Marshall Islands,Jordan,13658.94,1,1,1,1591.66
+IDZZ33271,Omega\OG-177,Ms. Guadalupe Oconnor,F,2004-07-31,2021-12-14,2022-09-17,1,Togo,Rwanda,3431.05,1,1,2,735.39
+IDXX21505,Adonis\AS-713,Ms. Callie Makris,F,1998-05-13,2021-12-26,2022-11-24,1,Nauru,Gambia,18577.74,2,1,1,1941.19
+IDYY56950,Calisto\CS-602,Mr. Andrew Roberts,M,1994-03-27,2021-07-11,2021-09-09,1,Sierra Leone,Micronesia,17396.87,1,1,2,2882.96
+IDZZ46822,Omega\OG-239,Ms. Rose Hall,F,1987-10-01,2021-03-09,2021-12-27,1,Saint Pierre and Miquelon,Bhutan,11098.92,2,0,1,964.28
+IDYY40265,Calisto\CS-685,Mr. Michael Hipple,M,1985-06-02,2021-06-12,2021-09-17,1,Honduras,Gibraltar,8222.27,2,0,2,1610.34
+IDZZ89847,Omega\OG-995,Mr. Joseph Bronson,M,1992-10-24,2021-10-20,2022-01-25,1,British Indian Ocean Territory,Lebanon,5865.78,0,1,2,1090.34
+IDXX65277,Adonis\AS-811,Ms. Mary Phillips,F,1981-10-09,2021-09-05,2021-10-14,1,Côte d'Ivoire,Hong Kong,12667.75,1,0,2,
+IDYY83592,Calisto\CS-126,Mr. David Gouveia,M,1991-11-08,2021-08-06,2022-05-13,1,Mexico,Philippines,13729.12,1,0,1,
+IDYY86842,Calisto\CS-635,Ms. Shirley Fox,F,1994-07-17,2021-05-15,2022-03-10,1,Laos,Egypt,7275.74,1,1,1,904.15
+IDYY92195,Calisto\CS-540,Mr. Donald Pike,M,1985-01-15,2021-12-27,2022-08-18,1,Martinique,Lesotho,10747.19,2,1,1,1051.09
+IDYY60618,Calisto\CS-671,Ms. Michelle Barnett,F,1994-10-27,2021-01-12,2021-09-15,1,Réunion,Latvia,9151.63,2,0,1,1041.76
+IDXX40158,Adonis\AS-794,Ms. Margret Dequattro,F,2017-06-26,2021-06-27,2022-01-30,0,Macau,Gambia,13190.57,1,1,2,2640.39
+IDYY72827,Calisto\CS-017,Mr. Corey Pajtas,M,2015-12-14,2021-09-11,2022-01-12,0,Ghana,New Caledonia,18001.52,2,0,2,
+IDZZ14287,Omega\OG-568,Ms. Cheryl Garcia,F,2020-04-06,2021-06-29,2021-11-15,0,Morocco,Comoros,7286.02,0,0,2,1280.5
+IDYY94388,Calisto\CS-055,Ms. Lana Vega,F,2005-03-20,2021-10-01,2022-09-08,1,Zambia,Cyprus,5404.39,0,0,1,963.52
+IDYY17620,Calisto\CS-588,Mr. Darron Aderholt,M,2014-01-22,2021-02-22,2021-12-05,0,Ethiopia,Maldives,3680.04,2,1,2,693.97
+IDZZ06986,Omega\OG-059,Ms. Trudy White,F,1984-06-02,2021-07-08,2021-08-02,1,Tanzania,Bosnia and Herzegovina,5858.96,1,1,2,1003.52
+IDYY00628,Calisto\CS-957,Mr. Michael Parker,M,2008-11-03,2021-01-28,2021-05-25,0,Tuvalu,Puerto Rico,12983.75,2,0,2,
+IDZZ27326,Omega\OG-565,Ms. Tammy Slavin,F,2001-02-11,2021-03-26,2021-06-19,1,Sweden,Guatemala,9502.5,0,1,2,1500.54
+IDZZ66442,Omega\OG-088,Mr. Randall Gaytan,M,2005-03-31,2021-01-05,2021-06-22,1,Russia,Australia,9994.57,1,0,2,
+IDZZ88558,Omega\OG-362,Ms. Lynn Jones,F,1984-02-27,2021-07-25,2021-09-04,1,Jamaica,Puerto Rico,1132.42,2,0,3,
+IDZZ97627,Omega\OG-402,Ms. Vicky Grenier,F,1993-03-15,2021-04-20,2022-01-19,1,Uganda,Kazakhstan,6165.65,0,0,1,884.67
+IDXX01763,Adonis\AS-797,Mr. Norman Anderson,M,1992-04-02,2021-05-08,2021-05-24,1,Grenada,Sri Lanka,15308.9,1,0,2,
+IDYY12395,Calisto\CS-954,Ms. Sarah Nguyen,F,2013-05-29,2021-12-21,2022-11-01,0,Faroe Islands,Croatia,2349.78,1,0,1,
+IDYY58067,Calisto\CS-919,Ms. Mildred Mendoza,F,1993-02-06,2021-09-20,2021-11-11,1,Jamaica,Cayman Islands,378.28,1,0,2,482.5
+IDZZ32477,Omega\OG-473,Mr. James Soares,M,1986-04-02,2021-12-22,2022-07-29,1,Cameroon,Saint Pierre and Miquelon,7802.53,1,0,1,881.68
+IDXX53204,Adonis\AS-091,Ms. Estella Smith,F,2005-06-05,2021-07-16,2021-11-14,1,Nauru,San Marino,14582.53,2,0,2,3216.96
+IDYY75967,Calisto\CS-025,Ms. Donna Cox,F,1997-06-07,2021-10-02,2022-01-26,1,French Guiana,Serbia,8447.48,2,1,2,
+IDXX13378,Adonis\AS-723,Ms. Kacie Peek,F,1995-04-27,2021-01-23,2021-04-11,1,Macau,Guam,3444.25,0,1,2,1067.44
+IDZZ40102,Omega\OG-895,Mr. Randy Beasley,M,1986-04-05,2021-12-17,2021-12-24,1,United Kingdom,Sierra Leone,5274.47,1,0,2,1050.71
+IDYY90608,Calisto\CS-806,Mr. Brandon Mister,M,2009-07-21,2021-12-10,2022-07-04,0,Netherlands,Armenia,3296.91,2,0,1,
+IDZZ03807,Omega\OG-627,Mr. Jonathan Perry,M,1990-08-01,2021-11-03,2022-02-21,1,Pakistan,Guatemala,14451.96,2,0,2,2045.05
+IDYY15341,Calisto\CS-532,Ms. Eva Salvas,F,2004-02-04,2021-06-24,2021-09-30,1,Panama,Western Sahara,7392.02,0,1,2,1550.74
+IDYY76996,Calisto\CS-346,Ms. Karen Lynn,F,1996-09-18,2021-08-11,2021-08-19,1,Gabon,Palau,13667.03,2,1,2,
+IDZZ83993,Omega\OG-920,Ms. Brenda Hansen,F,2005-12-18,2021-01-21,2021-03-09,0,Canada,Peru,7824.09,0,0,2,1345.63
+IDYY75520,Calisto\CS-429,Ms. Margaret Parks,F,2017-06-26,2021-05-20,2021-07-03,0,British Indian Ocean Territory,El Salvador,17774.2,1,0,3,4572.3
+IDXX07004,Adonis\AS-729,Ms. Mabel Hemberger,F,2018-10-06,2021-12-29,2022-02-17,0,Turkey,French Guiana,9602.28,0,1,2,2085.31
+IDXX98571,Adonis\AS-318,Ms. Jesse Thornburg,F,2008-03-13,2021-10-21,2022-07-15,0,Mozambique,Slovakia,7658.67,2,0,1,
+IDZZ92681,Omega\OG-466,Ms. Vincenza Young,F,2007-10-28,2021-08-29,2022-08-10,0,Solomon Islands,Guadeloupe,15400.05,1,0,1,1219.56
