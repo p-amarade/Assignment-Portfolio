@@ -2,7 +2,7 @@
 This repository showcases the codes of my assignments for my master of data science.
  
 # Unit List
-## FIT5120 - Industry experience studio project (https://github.com/p-amarade/Assignment-Portfolio/tree/main/FIT5120%20-%20Industry%20experience%20studio%20project)
+## [FIT5120 - Industry experience studio project](https://github.com/p-amarade/Assignment-Portfolio/tree/main/FIT5120%20-%20Industry%20experience%20studio%20project)
 As a Data Analyst for the project at Monash University capstone unit, my primary responsibility comprises finding and providing high-quality data for the team and recommending ideas for a project while working in an agile environment. On the technical side, I mainly do data wrangling, such as combining the dataset from various PDF files into one dataset or combining multiple CSV files. I must also extract only the required data to make the frontend developer. I also do the draft data visualisation in Tableau.
 
 This project won the Monash Post Graduate Industry Experience(IE) Expo on "Quality Education."
