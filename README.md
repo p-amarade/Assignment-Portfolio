@@ -8,12 +8,14 @@ As a Data Analyst for the project at Monash University capstone unit, my primary
 This project won the Monash Post Graduate Industry Experience(IE) Expo on "Quality Education."
 
 ## FIT5201 - Machine learning
+This unit is about understanding foundational concepts in machine learning and statistical learning theory, e.g. bias-variance, model selection, and model complexity.
 ### Assignment 1 
 This assignment let me understand model complexity, model selection, uncertainty in prediction with bootstrapping, probabilistic machine learning, and linear models for regression and classification by implementing various models without using some of the libraries. I also learnt the effect of the number of K in KNNregressor and K-fold in cross-validation. Lastly, I tap into the impact of L2-regularization by observing training and testing errors.
 ### Assignment 2 
 I comprehend the difference between Perception and Neural Networks by plotting the decision boundary and the effect of k values on testing accuracy between them.
 
-## FIT5202 - Data processing for big data 
+## FIT5202 - Data processing for big data
+This unit focuses on big data processing, including volume, complexity, velocity,  and processing big data using Apache Spark and the basics of different machine learning algorithms. 
 ### Assignment 1 
 In this assignment, I have to implement various solutions based on RDDs and DataFrames in PySpark for the given queries related to trip data analysis.
 ### Assignment 2A 
@@ -26,6 +28,7 @@ the data from the Kafka stream.
 I learned how to check for missing, invalid, or duplicate data in this unit using Tableau. I also do the data visualisation in Tableau in various ways. For this assignment, I have to make the visualisation to compare each location's average solar energy generation and show the total energy generated. 
 
 ## FIT5196 - Data wrangling
+This unit is taught about handling bad and missing data, data integration and initial feature selection. It also cover the problems that prevent raw data from being effectively used in analysis and the data cleansing and pre-processing tasks that prepare it for analytics
 ### Assignment 1 
 The main task for this assignment is Data Cleansing in Python to fix errors, remove outliers and impute the missing values in different datasets using Pandas.
 ### Assignment 2 
